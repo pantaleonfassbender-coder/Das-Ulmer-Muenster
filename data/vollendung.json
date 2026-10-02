@@ -1,0 +1,99 @@
+{
+ "id": "vollendung",
+ "titel": "Der Turm, 1844–1890",
+ "autor": "Rudolf Pfleiderer (1890); Max Bach (1902)",
+ "jahr": "1844–1890",
+ "sprache": "de",
+ "orig_sprache": "de",
+ "pg_label": "S.",
+ "quelle": "Rudolf Pfleiderer, Das Ulmer Münster in seiner Vollendung, in: Die Gartenlaube 1890, Heft 14, S. 444–449; Max Bach, Beyer, August, in: Allgemeine Deutsche Biographie 46 (1902), S. 532–534. Beide nach den korrigierten Transkriptionen von Wikisource.",
+ "hinweis": "Zwei Stimmen der Vollendung: Pfleiderers Festartikel in der Gartenlaube, geschrieben zur Einweihung, und Bachs Lebensbild des Turmvollenders in der Allgemeinen Deutschen Biographie. Die Texte folgen den zweifach korrigierten Transkriptionen von Wikisource; Pfleiderers Text wurde in Stichproben am Scan geprüft und an einer Stelle berichtigt, Bachs nicht. Beide stehen in der Schreibung des Drucks und ohne Übersetzung. Die Anmerkungen lesen die Festsprache kritisch: was 1890 gefeiert wurde, und wie es sich zu Fabris ‚ohne Hilfe und Betteln‘ verhält.",
+ "sections": [
+  {
+   "id": "gartenlaube",
+   "titel": "Pfleiderer 1890: Das Ulmer Münster in seiner Vollendung",
+   "zk": "Gartenlaube",
+   "blurb": "Der Festartikel zur Vollendung: Schubart und die ‚deutsche Kraft‘, Böblingers Riss, der ‚deutsche Frühling‘ von 1813 und der Beginn 1844, das Königswort von 1857 und die Gaben der Nation, der Turm, der höher wurde als der Plan und als Köln, keiner der hundert Arbeiter starb, und der Schlussstein am 31. Mai 1890 unter zwei Fahnen.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Vollendet!",
+     "pg": "444",
+     "en": "„Ich muß hinauf, hinauf auf deine Höhen und mein Herz lüften auf deinem majestätischen Kranze.“ So klang es aus Fr. Daniel Schubarts Dichterbrust, wenn er während seines Ulmer Aufenthaltes 1775/77 an dem Münster der Stadt vorüberging, in dessen damaliger noch so ruinenhafter Gestalt er „die heiligen Spuren deutscher Kraft und deutschen Geistes“ bewundernd erkannte und dessen unvollendeter Hauptthurm erst bis zu 205 Fuß (59 Meter) sein schwarzgraues Haupt in die Lüfte erhob! [...] Vollendet! Das Wort schließt eine fünfhundertdreizehnjährige Baugeschichte ein, eine lange Flucht von Jahren der Arbeit, des Stillstands, der Verheerung, des Todesschlafs und endlich des herrlichen Wiederauferstehens des Ulmer Münsters [...]. In Ulm, der Freien Reichsstadt, welche damals ihre 20 000 bis 25 000 Einwohner zählte und nicht mehr, war kein solcher Sitz eines Kirchenfürsten, aber ein starker muthiger Bürgersinn, welcher beim allgemeinen Aufwärtsstreben der Stadt auch sein großes Gotteshaus haben wollte, sogut wie die Bischofsstädte, und am 30. Juni 1377 den Grundstein dazu legte. „Wir haben,“ sagt ein Kunsthistoriker, „im Ulmer Münster die großartigste Schöpfung des deutschen Bürgerthums des Mittelalters“; und wir dürfen hinzusetzen, daß die große Einfachheit der inneren und äußeren Anlage ohne Querschiff aus diesem Ursprung uns erklärlich, ja mehr noch, uns werth und lieb wird.",
+     "note": "Pfleiderer, Pfarrer und Kunsthistoriker in Ulm, schreibt den Festartikel zur Einweihung des vollendeten Turms für die meistgelesene Familienzeitschrift Deutschlands. Schon im ersten Absatz stehen die Schlüsselwörter: ‚deutsche Kraft und deutscher Geist‘, ‚Wiederauferstehen‘, ‚deutsches Bürgerthum‘. Die Bürgerkirche ohne Bischof, die Fabri 1488 rühmte (Grundstein [5], Vorzüge [1]), wird 1890 zum nationalen Denkmal. Die Einwohnerzahl von 20 000 bis 25 000 für das 14. Jahrhundert ist Pfleiderers Angabe; die neuere Literatur rechnet mit weniger."
+    },
+    {
+     "n": 2,
+     "titel": "Böblingers Riss, und eine Sage",
+     "pg": "446",
+     "en": "In einer Kapelle des Ulmer Münsters befindet sich der Originalriß, worauf Ulrichs Viereck durch Achteck und Helm zur Vollendung gebracht ist. An der Stelle, wo Ulrichs Sohn Matthäus den Bau stehen ließ, sind die Worte geschrieben: „da hat angefangen zuo machen an dem duoren (Thurm) zuo ulm mathe(us) Böblinger.“ Und weiter oben am Schluß des Vierecks: „da hat uffgehert zuo buowen an dem duoren mathe(us) Böblinger.“ Der ganze Thurm ist aber darüber ausgezeichnet bis zur Spitze. – Es waren fast 60 Jahre nach Ulrich Ensingers Tod, als Meister Matthäus Böblinger, der Erbauer der Eßlinger Frauenkirche, von dort 1477 nach Ulm berufen ward an den Münsterbau, nachdem er schon zuvor dorthin gearbeitet hatte. War ihm nur ein kleines Stück, das letzte Drittel des Vierecks, am Thurm auszuführen beschieden gewesen, als er spätestens 1494 nach Eßlingen zurückkehrte, so hinterließ er doch die Durchführung jenes Ensingerschen Originalrisses, nach welchem fast vier Jahrhunderte nachher der Ulmer Thurm ausgeführt steht.",
+     "note": "Der Riss, der 1890 gebaut wurde, ist der, den Fabri 1488 meinte, als er schrieb, der Plan der Gründer zeige ‚einen viel kostbareren Tempel‘ (Fünf Werke [2]); die Tafel ‚Der Plan des Turms‘ zeigt ihn. Böblinger selbst hat auf dem Riss vermerkt, wo er anfing und wo er aufhörte. Zu ‚spätestens 1494‘ setzt Pfleiderer eine Fußnote: ‚Die Sage führt das Herabfallen zweier Steine aus dem Steingewölbe während des Gottesdienstes als ersten Anlaß seines Weggangs, seiner „Flucht“ an.‘ 1907 wird er derselben ‚Sage‘ noch ausführlicher widersprechen (Pfleiderer [2])."
+    },
+    {
+     "n": 3,
+     "titel": "1813, 1844: die Wiedergeburt",
+     "pg": "446",
+     "en": "Böblingers Abgang bezeichnet die Wende des Jahrhunderts. Große Umwälzungen warfen ihre Schatten voraus. An ein Weiterbauen war nicht zu denken. [...] Doch ward der Bau mit rührender Sorgfalt gehütet von der Bürgerschaft Ulms, welche ihr Münster seit dem Uebertritt der Stadt zur Reformation als den einzigen protestantischen der großen deutschen Dome ehrt und gebraucht. Da brach der neue deutsche Frühling herein seit den Freiheitskriegen von 1813. In der wiedererwachenden Liebe für das Mittelalter, für die altdeutsche Kunst erstieg das deutsche Volk die erste Sprosse seiner Wiedergeburt. Auch in der indessen dem Königreich Württemberg zugefallenen alten Reichsstadt Ulm regte sich dieser Geist. Durch die Bemühungen des dort gegründeten „Vereins für Kunst und Alterthum“, durch die Bereitwilligkeit der Ulmer städtischen Körperschaften, für das ehrwürdige Denkmal ihrer alten Größe etwas zu thun, kam der Gedanke der Ulmer Kunstfreunde, unter denen besonders der spätere württembergische Landeskonservator und Oberstudienrath Dr. K. D. Haßler zu nennen ist, zu That und Leben. Am 21. August 1844 ward in aller Stille das Werk der Restauration begonnen. Das Ziel dachte man sich damals hoch genug zu stellen in der Rettung der dem Verfall entgegengehenden Theile, in der Ergänzung des Nöthigsten, in der Einfügung der fehlenden Strebebögen von der Hauptschiffwand zur äußeren Mauer der Seitenschiffe herab.",
+     "note": "Zwei Begründungen in einem Satz: die Bürgerschaft, die ihr Münster ‚als den einzigen protestantischen der großen deutschen Dome‘ hütete, und der ‚deutsche Frühling‘ der Freiheitskriege. 1890 ist das Konfession und Nation zugleich; der katholische Kölner Dom war 1880 vollendet worden, und Pfleiderer wird den Ulmer Turm am Ende fünf Meter höher nennen ([5]). Ulm war 1810 an Württemberg gefallen und keine Reichsstadt mehr; das Denkmal ‚ihrer alten Größe‘ ist auch ein Denkmal der verlorenen Selbständigkeit. 1844 wollte man retten, nicht vollenden."
+    },
+    {
+     "n": 4,
+     "titel": "Das Königswort und die Gaben der Nation",
+     "pg": "446",
+     "en": "Schon 1857 äußerte der kunstsinnige Friedrich Wilhelm IV. von Preußen gegen den genannten Dr. Haßler erstmals, „man solle nicht bloß an die Restauration des Münsters, sondern auch an den Ausbau des Thurmes denken“. Das Königswort fand Widerhall in allen deutschen Herzen. Wir müssen hier dankbar gedenken, wie viel das württembergische Königshaus, das Hohenzollernhaus und die ganze deutsche Nation durch Gaben und Spenden an dem Werk gethan haben. Es bedurfte aber in Ulm selbst einer thatkräftigen und weitblickenden Persönlichkeit, welche mit organisatorischem Geschick alle Kräfte auf das höchste Ziel, den Ausbau des Hauptthurmes, zusammenzufassen verstand. Das ist der Oberbürgermeister der Stadt seit 1863, von Heim. Der Baumeister dazu wurde in Professor August Beyer gefunden, dem Schüler von Josef Egle, welcher seine Berufung nach Ulm vorschlug. Wir bringen unsern Lesern das Bild Beyers, welcher durch Vollendung des Thurms nach dem erwähnten alten Böblingerschen Plan einen unvergänglichen Ruhmeskranz sich ums Haupt geflochten hat.",
+     "note": "Der Satz, der Fabris Formel umkehrt: Die Bürger von 1377 bauten ‚ohne Hilfe und Betteln‘, ohne Fürsten (Grundstein [3] und [5]); den Turm von 1890 wollte ein preußischer König, und vollendet wurde er mit ‚Gaben und Spenden‘ des württembergischen Königshauses, des Hohenzollernhauses und ‚der ganzen deutschen Nation‘. Die Initiative lag beim Oberbürgermeister, das Geld kam auch von außen. Pfleiderer sieht darin keinen Widerspruch zu Fabri, sondern seine Erfüllung im größeren Maßstab."
+    },
+    {
+     "n": 5,
+     "titel": "Höher als Köln",
+     "pg": "446",
+     "en": "Aber noch schwieriger als dies Meisterstück unseres Thurmvollenders war die Aufgabe Beyers, den ganzen leicht hingezeichneten Riß Böblingers überhaupt in die Ausführung zu übersetzen. Die hervorragende technische Leistung, die hierin liegt, werden die Fachmänner zu würdigen wissen. Wir erwähnen hier gelegentlich die Verstärkungsbauten von unten auf, welche der Tragkraft wegen auszuführen waren, ehe nur an einen Aufbau zu denken war; ferner daß Professor Beyer mit richtigem Gefühl die Verhältnisse des Originalrisses dahin abänderte, daß das Achteck etwas niedriger (32 Meter), der Helm ziemlich höher (59 Meter) gehalten ward, wodurch der Thurm selbst statt auf 151 auf 161 Meter Höhe vom Boden der Portalhalle aus kam (von der Linie des Platzes aus gegen 162 Meter). So ist er der höchste künstlerische Thurm der Welt geworden, die Kölner Domthürme um 5 Meter überragend. Es sollte dadurch erreicht werden und ist erreicht worden, daß der Ulmer Helm nicht die Fehler so mancher theilt, von unten sich zu sehr zu verkürzen und zu tief im Achteckskranz drinnen zu stecken.",
+     "note": "Beyer baute nicht genau nach Böblinger: Er machte das Achteck niedriger und den Helm höher, und der Turm wurde zehn Meter höher als der Plan. Pfleiderer begründet das ästhetisch, nennt aber im selben Atemzug das Ergebnis: höher als Köln. Die Steinmetzordnung von 1459 verpflichtete den Meister, nicht vom Plan abzuweichen (Hütte [5]), und der Nachfolger, das Werk des Vorgängers nicht ohne das Urteil anderer Werkleute zu ändern (Hütte [4]); Beyers Änderung prüfte 1882 eine Kommission von Architekten (Beyer [2]). Auch die ‚Verstärkungsbauten von unten auf‘ setzen fort, was Engelberg 1494 begann (Frick [5]): Bevor man höher baute, musste man wieder unterfangen."
+    },
+    {
+     "n": 6,
+     "titel": "Kein Menschenleben",
+     "pg": "447",
+     "en": "Es ist etwas Großes, Hochbefriedigendes, daß bei diesem ganzen Thurmaufbau, welcher alles in allem fast das jetzt zu Ende gehende Jahrzehnt (1882 bis 90) in Anspruch nahm, kein einziges Menschenleben durch Unglücksfall zu Grunde gegangen ist, wo doch die Bauhütte 100–120 Mann betrug und die jahrelange Arbeit in solcher Höhe an und für sich des Gefährlichen genug bot. Es wirft diese Thatsache ein Licht auf die rühmliche Sorgfalt und Vorsicht der Bauleitung, auf die vollbewußte Sicherheit, mit der Prof. Beyer die ganz riesigen und schwierigen Gerüste Stockwerk für Stockwerk aufeinander zu thürmen verstand, welche schon allein eine bauliche Merkwürdigkeit sind.",
+     "note": "Die einzige Stelle, an der die hundert bis hundertzwanzig Männer der Bauhütte vorkommen, die den Turm bauten; keiner von ihnen wird genannt. Dass niemand starb, ist Pfleiderers Angabe. 1492 fielen zwei Steine, und niemand wurde verletzt (Frick [3]); das Spiel kennt Unfälle, aber keine Katastrophe."
+    },
+    {
+     "n": 7,
+     "titel": "Der Schlussstein, 31. Mai 1890",
+     "pg": "449",
+     "en": "Eine stille andächtige Gemeinde, versammelten wir uns am Abend des 31. Mai um den Meister und die Werkleute auf der schwindelnden Höhe der obersten Plattform des Gerüstes, aus welcher eben noch die äußerste Spitze des vollendeten Thurmes heraustrat, um nun bald frei in die Lüfte zu ragen. Lichter Abendsonnenschein übergoldete das weite Land und die Häuser der Stadt tief unten, aus deren Giebelfenstern wehende Tücher zu uns heraufgrüßten, indeß vom Thurme die deutsche und die württembergische Fahne herabwallten. [...] Wir waren alle durchdrungen von der Größe des Augenblicks, durch welchen in die Geschichte Ulms, des evangelischen Gotteshauses und der deutschen Kunst ein neues unvergängliches Blatt eingefügt werden sollte. Da klangen die Glocken des Domes herauf zu uns. Die am Morgen von den Geistlichen und den bürgerlichen Kollegien der Stadt unterzeichnete Urkunde von Pergament, welche besagt, daß „im Jahre des Heils 1890 ... am 31. Mai abends 6 Uhr der Schlußstein zum Hauptthurm dieses Münsters aufgesetzt und damit 513 Jahre nach der Grundsteinlegung dies größte Gotteshaus in deutschen Landen glücklich vollendet worden“ – wird in die Höhlung des vorletzten Steins, welcher dem Thurmknopf zur Unterlage dient, eingelegt und vermauert – und langsam senkt sich dieser herab auf denselben. Ein frommer Segensspruch zuerst; dann klingt unser dreifacher Jubelruf hinaus in die Lüfte, dem Könige als dem hohen Förderer und Protektor, dem Baumeister mit seinen Gehilfen als dem ruhmreichen Vollender des großen Werkes! Und in feierlichen Accorden des Chorals „Nun danket alle Gott“ scholl es vom Thurmkranz unter uns nieder, der harrenden Menge zur frohen Kunde, was droben geschehen!",
+     "note": "Die Schlussszene antwortet auf die Grundsteinlegung von 1377 (Grundstein [4]): Damals stieg der Bürgermeister in die Grube und legte hundert Gulden auf den Stein, und die Bürger setzten den Stein, nicht die Werkleute. 1890 stehen ‚der Meister und die Werkleute‘ oben, eine Urkunde der Geistlichen und der ‚bürgerlichen Kollegien‘ wird eingemauert, und der erste Jubelruf gilt dem König. Über dem Turm wehen die deutsche und die württembergische Fahne. Die Festtage folgten vom 28. Juni bis 1. Juli 1890, mit Mendelssohns ‚Elias‘ und einem historischen Festzug von 1500 Teilnehmern."
+    }
+   ]
+  },
+  {
+   "id": "beyer",
+   "titel": "Bach 1902: August Beyer",
+   "zk": "Beyer",
+   "blurb": "Der Vollender: ein Steinmetz aus Künzelsau, berufen 1881, Turmbau vom 30. Juni 1885 bis 1890 nach Prüfung durch eine Kommission, und eine Bauhütte am Münsterplatz, die die Ulmer nicht wollten.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Ein Steinmetz aus Künzelsau",
+     "pg": "532–533",
+     "en": "Beyer: August B., Architekt, Professor, geb. am 30. April 1834 zu Künzelsau (Württ.), † am 18. April 1899 in Ulm. Nachdem er seine Lehrzeit als Steinmetz vollendet, besuchte er die Baugewerkenschule in Stuttgart, wo er bis zum Jahre 1854 unter Egle eifrig seinen Studien oblag. Egle erkannte bald die schon früh sich regende Befähigung des jungen Baubeflissenen und nahm ihn in sein Atelier auf. In diese Zeit fällt Beyer’s erste Beschäftigung am Ulmer Münster, mit welchem sein Name für alle Zeiten ruhmwürdig verbunden ist. Egle ließ damals durch zwei seiner Schüler, B. und Rieß, das herrliche Chorgestühl im Ulmer Münster aufnehmen, welche Zeichnungen später als Supplemente zu der kunsthistorischen Beschreibung von Ulm von Haßler erschienen sind.",
+     "note": "Der Vollender war, wie die Meister des 15. Jahrhunderts, als Steinmetz ausgebildet; die Ordnung von 1459 verlangte fünf Lehrjahre ‚vom Rauen auf‘ (Hütte [14]). Seine erste Arbeit am Münster war eine Bauaufnahme des Chorgestühls, das 1531 auf Befehl des Rats stehen geblieben war (Pfleiderer 1531 [2])."
+    },
+    {
+     "n": 2,
+     "titel": "Der Turmbau, 1881–1890",
+     "pg": "533",
+     "en": "Am 1. November 1880 starb der Münsterbaumeister Scheu in Ulm, kurz nach Vollendung des zweiten Chorthurms. Als sein Nachfolger wurde im J. 1881 B. berufen und nun tritt in dessen Leben eine Wendung ein, welche ihn aus einem Künstler von Localruf zu einem Künstler von Weltruf machte. 18 Jahre hat B. in Ulm geschaffen und gewirkt, unermüdlich auf- und ausgebaut, dabei schöne und reiche Erfolge gehabt, aber auch herbe Enttäuschungen erlebt. B. stellte vor allem die Gewißheit, den Hauptthurm des Münsters ausbauen zu können, durch Fundament- und Tragkraftuntersuchungen fest. Seine Vorschläge wurden 1882 durch eine Commission von Architekten, darunter Adler, Ferstel, Schmid und Egle sich befanden, geprüft und gutgeheißen, am 30. Juni 1885 begann der Thurmbau, im Frühjahr 1888 war bereits das Octogon vollendet und am 15. Mai 1890 die Kreuzblume aufgesetzt, und das, was man noch vor zehn Jahren fast für unmöglich gehalten, in verhältnißmäßig kurzer Zeit ausgeführt. B. hatte seine Aufgabe mit der ihm innewohnenden Thatkraft und Besonnenheit glänzend gelöst, für alle Zeiten wird der 161 m hohe Thurm den Ruhm seines Schöpfers in alle Lande verkündigen.",
+     "note": "Der Turmbau begann am 30. Juni 1885, dem Jahrestag der Grundsteinlegung von 1377: Das Datum war gewählt. Die Kommission von 1882 tat, was die Steinmetzordnung von 1459 vorsah, wenn ein Nachfolger in das Werk eines Vorgängers eingriff: Andere Werkmeister urteilten (Hütte [4]). Bach nennt den 15. Mai 1890 für die Kreuzblume, Pfleiderer den 31. Mai für den Schlussstein (Gartenlaube [7]); beides kann stimmen."
+    },
+    {
+     "n": 3,
+     "titel": "Die Bauhütte, die die Bürger nicht wollten",
+     "pg": "533–534",
+     "en": "Noch bis an das Ende seines Lebens nahm der Ausbau des Ulmer Münsters seine Thätigkeit in Anspruch; seine letzte Arbeit dazu war jene sinnreiche Heizeinrichtung, die vermuthlich mustergültig für die Anlage von Heizungen für große Kirchenräume werden dürfte. Sein Plan für die neue Bauhütte und das Verwaltungsgebäude des Münsters an Stelle des alten Hauses wurde von den Vätern der Stadt leider nicht genehmigt, da sich fast die ganze Einwohnerschaft dagegen auflehnte. Dieses Gebäude sollte dem Münsterplatz gegen Norden einen harmonischen Abschluß in mittelalterlichem Sinne geben und wäre keine „Schändung“, sondern eine Zierde, eine passende und nothwendige Vermittlung zwischen Münster und den anliegenden Häusern der Stadt gewesen. Aus dem „armen Steinmetzen“ ist mit der Zeit ein berühmter Mann geworden, die großen und zahlreichen Auszeichnungen, die man ihm zugewendet hat, konnten sein bescheidenes und schlichtes Wesen nicht verändern, ein deutscher Steinmetz ist er zeitlebens geblieben.",
+     "note": "Die ‚herben Enttäuschungen‘ ([2]) haben einen Namen: Als der gefeierte Meister eine neue Bauhütte am Münsterplatz bauen wollte, lehnten ‚die Väter der Stadt‘ ab, weil sich ‚fast die ganze Einwohnerschaft dagegen auflehnte‘ und von ‚Schändung‘ sprach. Fünfhundert Jahre nach dem Vertrag mit Ulrich von Ensingen (Ensingen Ulm [1]) entscheidet in Ulm immer noch die Stadt, nicht der Meister. Bach nimmt Partei für Beyer."
+    }
+   ]
+  }
+ ]
+}

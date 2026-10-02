@@ -120,16 +120,22 @@
    "citeLabel": "Pfleiderer 1531 [4]"
   },
   {
-   "d": "1844",
+   "d": "21. August 1844",
    "side": "nachwelt",
    "titel": "Der Bau beginnt wieder",
-   "text": "Nach drei Jahrhunderten wird am Münster wieder gebaut. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "‚In aller Stille‘ beginnt die Restaurierung, auf Betreiben des Vereins für Kunst und Alterthum und Konrad Dieterich Haßlers; man will retten, nicht vollenden. Ab 1856 entstehen die Strebebögen des Langhauses, bis 1880 die beiden Chortürme.",
+   "cite": "#/text/vollendung/gartenlaube/3",
+   "citeLabel": "Gartenlaube [3]",
+   "plate": "baustelle1887"
   },
   {
-   "d": "1890",
+   "d": "31. Mai 1890",
    "side": "nachwelt",
    "titel": "Der Turm",
-   "text": "Der Westturm wird vollendet, nach dem Plan, der auf Ensingen und Böblinger zurückgeht. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Der Schlussstein wird gesetzt, 513 Jahre nach der Grundsteinlegung. August Beyer hat den Turm seit dem 30. Juni 1885 nach Böblingers Riss gebaut, mit geänderten Verhältnissen: 161 Meter, fünf Meter höher als der Kölner Dom. Bezahlt haben auch Königshäuser und ‚die ganze deutsche Nation‘.",
+   "cite": "#/text/vollendung/gartenlaube/7",
+   "citeLabel": "Gartenlaube [7]",
+   "plate": "vollendet1890"
   }
  ]
 }

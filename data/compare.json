@@ -270,6 +270,50 @@
      ]
     }
    ]
+  },
+  {
+   "id": "hilfe",
+   "titel": "Ohne Hilfe, mit Hilfe",
+   "frage": "Fabri 1488 und Pfleiderer 1890: wer den Bau bezahlte.",
+   "note": "Fabri rühmt die Ulmer, weil sie ‚ohne Pilger, ohne Hilfe und Betteln‘ bauten, mit den Mitteln ihrer Stadt und ohne Fürsten. 1890 dankt Pfleiderer dem preußischen König für das ‚Königswort‘, dem württembergischen Königshaus, dem Hohenzollernhaus und ‚der ganzen deutschen Nation‘ für ihre Gaben. Das Mittelalter baute die Kirche und konnte den Turm nicht vollenden; das 19. Jahrhundert vollendete den Turm und machte aus der Bürgerkirche ein Nationaldenkmal.",
+   "voices": [
+    {
+     "text": "grundstein",
+     "sec": "fabri",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "vollendung",
+     "sec": "gartenlaube",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "planaendern",
+   "titel": "Darf der Nachfolger den Plan ändern?",
+   "frage": "Die Steinmetzordnung 1459 und der Turmbau 1890.",
+   "note": "1459 verbieten die Meister einem Nachfolger, das Werk des Vorgängers ohne das Urteil anderer Werkleute zu ändern, ‚damit der Meister nicht geschmäht werde‘. 1882 prüft eine Kommission von Architekten Beyers Vorschläge, und Beyer ändert Böblingers Riss: das Achteck niedriger, der Helm höher, der Turm zehn Meter höher als geplant. Pfleiderer nennt es ‚richtiges Gefühl‘; das Ergebnis war der höchste Kirchturm der Welt.",
+   "voices": [
+    {
+     "text": "huette",
+     "sec": "ordnung",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "vollendung",
+     "sec": "gartenlaube",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }

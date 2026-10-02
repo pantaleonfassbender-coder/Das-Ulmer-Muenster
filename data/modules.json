@@ -55,16 +55,17 @@
    "kurz": "Die Reformation im Münster, 1531–1552",
    "zk": "Frick 1531",
    "warum": "Zwei spätere Stimmen, in Fraktur am Seitenbild gelesen: Elias Frick 1718 erzählt, wie auf Rat der oberdeutschen Reformatoren 1531 alle Altäre hinausgetan, die große Orgel mit Pferden heruntergerissen und Bilder verstümmelt wurden, ein Holztisch an die Stelle des Altars trat und 1548 für den Kaiser in zwei Tagen zwei Altäre gebaut wurden. Rudolf Pfleiderer 1907 zitiert die Ratsprotokolle: Die Stifter sollten ihre Stiftungen heimholen, am 21. Juni brach ‚der Pöbel‘ herein. Er nimmt den Rat und die evangelische Kirche in Schutz; der Apparat sagt, warum das nicht trägt. Dazu der Kaiser 1548, der die Prediger gefangen mitnahm."
+  },
+  {
+   "id": "vollendung",
+   "datei": "vollendung",
+   "side": "nachwelt",
+   "kurz": "Der Turm, 1844–1890",
+   "zk": "Gartenlaube",
+   "warum": "Rudolf Pfleiderers Festartikel zur Vollendung in der Gartenlaube 1890 und Max Bachs Lebensbild des Turmvollenders August Beyer in der ADB 1902, kritisch gelesen: der ‚deutsche Frühling‘ von 1813 und der Beginn 1844, das Königswort und die Gaben der ganzen Nation statt ‚ohne Hilfe und Betteln‘, ein Turm, der zehn Meter höher wurde als Böblingers Plan und fünf Meter höher als Köln, hundert Arbeiter ohne Namen, der Schlussstein unter der deutschen und der württembergischen Fahne, und eine Bauhütte, die die Ulmer ihrem gefeierten Meister verweigerten."
   }
  ],
  "planned": [
-  {
-   "id": "vollendung",
-   "side": "nachwelt",
-   "kurz": "Der Turm, 1844–1890",
-   "warum": "Die Wiederaufnahme des Baus und die Vollendung des Turms im 19. Jahrhundert, kritisch gelesen: was die Festschriften feierten und warum.",
-   "quelle": "F. Pressel, Ulm und sein Münster (1877); Berichte des Münsterbauvereins."
-  },
   {
    "id": "vergleich",
    "side": "nachwelt",

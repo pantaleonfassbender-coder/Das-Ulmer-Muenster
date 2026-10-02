@@ -1,6 +1,6 @@
 {
  "lede": "Risse, Ansichten und Bilder des Münsters aus gemeinfreien Drucken; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), der Planriss des Westturms (Ende 15. Jahrhundert, Ulmer Museum), Matthäus Merians Münsterplatz (1643) und Anton Falgers Westansicht (1829), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), Roriczers Fialen aus C. A. Heideloff, Die Bauhütte des Mittelalters (1844), Böblingers Ölberg aus R. Pfleiderer, Münsterbuch (1907), und den Innenraum aus E. Frick, Templum Parochiale Ulmensium (1718), nach den Scans im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
+ "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), der Planriss des Westturms (Ende 15. Jahrhundert, Ulmer Museum), Matthäus Merians Münsterplatz (1643), Anton Falgers Westansicht (1829), eine Aufnahme des Turmbaus (1887) und die Gartenlaube-Ansicht des vollendeten Münsters (1890), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), Roriczers Fialen aus C. A. Heideloff, Die Bauhütte des Mittelalters (1844), Böblingers Ölberg aus R. Pfleiderer, Münsterbuch (1907), und den Innenraum aus E. Frick, Templum Parochiale Ulmensium (1718), nach den Scans im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
  "plates": [
   {
    "id": "ulma1493",
@@ -57,6 +57,20 @@
    "titel": "Das leere Münster, 1718",
    "caption": "‚Perspectivische Vorstellung der inneren Gestalt des Ulmischen Münsters‘, gezeichnet von Johannes Bertholdt für Fricks Münsterbeschreibung: ein Schnitt durch das Langhaus mit dem offenen Dachstuhl, das hohe Mittelschiff mit seinen Gewölben und die Seitenschiffe, die Engelberg ab 1502 durch Säulen teilte (Frick [6]). Zu sehen ist eine Kirche nach der Reformation: Statt der einundfünfzig Altäre Fabris (Vorzüge [3]) leere Pfeiler und kahle Wände, nur wenig Ausstattung im Blick auf den Chor. So sah der Bau aus, den die Bürger nicht vollenden konnten, zweihundert Jahre nach dem Bildersturm.",
    "source": "Elias Frick, Templum Parochiale Ulmensium = Ulmisches Münster (Ulm 1718), Faltkupfer ‚fig. IV‘, gez. Johannes Bertholdt; Internet Archive 10002717bsb, Digitalisat der Bayerischen Staatsbibliothek (gemeinfrei)."
+  },
+  {
+   "id": "baustelle1887",
+   "side": "nachwelt",
+   "titel": "Die Baustelle, 1887",
+   "caption": "Das Münster im Jahr 1887, mitten im Turmbau: Die beiden Chortürme, die Ludwig Scheu bis 1880 vollendete, stehen fertig, die Strebebögen Thräns sind gesetzt, und über dem alten Viereck des Westturms wächst der Neubau. Zwei Jahre nach dem Baubeginn am 30. Juni 1885 (Beyer [2]); vorn kleine Bauten am Fuß der Kirche.",
+   "source": "Fotografie 1887, Urheber unbekannt; über Bildindex der Kunst und Architektur und Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "vollendet1890",
+   "side": "nachwelt",
+   "titel": "Vollendet, 1890",
+   "caption": "‚Das Ulmer Münster in seiner Vollendung‘, Stich nach einer Photographie von Karl Herrlinger in Ulm, gedruckt in der Gartenlaube 1890 zu Pfleiderers Festartikel (Gartenlaube [1]–[7]): der Turm mit Achteck und Helm, 161 Meter, auf dem freigeräumten Münsterplatz mit Kutschen und Spaziergängern. Das Bild, mit dem die Familienzeitschrift ganz Deutschland den vollendeten Turm zeigte; Fabris Turm, der 1488 ‚in den Himmel wachsen‘ wollte (Grundstein [5]), nach Böblingers Plan, aber höher.",
+   "source": "Die Gartenlaube 1890, S. 440, nach einer Photographie von Karl Herrlinger; Scan über Wikimedia Commons (gemeinfrei)."
   }
  ]
 }
