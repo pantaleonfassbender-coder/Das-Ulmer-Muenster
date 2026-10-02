@@ -5,7 +5,10 @@
    "d": "30. Juni 1377",
    "side": "rat",
    "titel": "Der Grundstein",
-   "text": "Bürgermeister Ludwig Krafft legt den ersten Stein der neuen Pfarrkirche und bedeckt ihn mit hundert Gulden. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Nach einer Feier mit Klerus, Volk und Musik steigt Bürgermeister Ludwig Krafft in die Baugrube, setzt den ersten Stein der neuen Pfarrkirche und bedeckt ihn mit hundert Gulden; die Vornehmen und das Volk legen Gold und Silber dazu.",
+   "cite": "#/text/grundstein/fabri/4",
+   "citeLabel": "Grundstein [4]",
+   "plate": "ulma1493"
   },
   {
    "d": "1392",
@@ -29,7 +32,9 @@
    "d": "1488",
    "side": "kirche",
    "titel": "Fabris Beschreibung",
-   "text": "Felix Fabri beschreibt die Stadt und ihr Münster, das in hundertelf Jahren ohne fremde Hilfe gewachsen sei. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Felix Fabri rühmt, die Stadt habe ihr Münster in hundertelf Jahren ohne Pilger, ohne Hilfe und Betteln gebaut; das Gotteshaus sei längst vollendet, der Turm wachse noch.",
+   "cite": "#/text/grundstein/fabri/5",
+   "citeLabel": "Grundstein [5]"
   },
   {
    "d": "1492",

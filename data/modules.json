@@ -1,13 +1,15 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "grundstein",
+   "datei": "grundstein",
    "side": "rat",
    "kurz": "Die Grundsteinlegung, 30. Juni 1377",
-   "warum": "Felix Fabris Bericht: der Bürgermeister in der Baugrube, hundert Gulden auf dem Stein, eine Kirche ohne Pilger, ohne Hilfe und ohne Betteln.",
-   "quelle": "Felix Fabri, Tractatus de civitate Ulmensi, hg. G. Veesenmeyer (Tübingen 1889)."
-  },
+   "zk": "Grundstein",
+   "warum": "Felix Fabris Bericht von 1488, am Seitenbild gelesen, Latein mit neuhochdeutscher Übersetzung: warum die Bürger ihre Pfarrkirche in die Stadt holten (Furcht vor Verrat, und die Spenden, die an die Bettelorden gingen), wie sie Häuser, ein Schwesternhaus und den Garten der Franziskaner für den Bauplatz nahmen, wie Bürgermeister Ludwig Krafft den Stein setzte und mit hundert Gulden bedeckte, und Fabris Rückblick: ohne Hilfe und Betteln."
+  }
+ ],
+ "planned": [
   {
    "id": "ensinger",
    "side": "meister",

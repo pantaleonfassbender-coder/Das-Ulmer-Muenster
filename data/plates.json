@@ -1,5 +1,13 @@
 {
  "lede": "Risse, Ansichten und Bilder des Münsters aus gemeinfreien Drucken; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "",
- "plates": []
+ "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493). Gemeinfreie Reproduktionen über Wikimedia Commons, für diese Site verkleinert.",
+ "plates": [
+  {
+   "id": "ulma1493",
+   "side": "buerger",
+   "titel": "‚Ulma‘, 1493",
+   "caption": "Ulm von der Donau aus im Holzschnitt der Schedelschen Weltchronik, fünf Jahre nach Fabris Beschreibung: die Mauer, die Brücke mit dem Torturm, die Dächer der Stadt und über ihnen die großen Kirchen. Welche davon das Münster ist, sagt der Holzschnitt nicht; eine genaue Bauaufnahme ist er nicht. Fabri rühmte im selben Jahrzehnt, das Gotteshaus sei ‚längst vollendet‘, der Turm wachse ‚als wolle er in den Himmel wachsen‘ (Grundstein [5]).",
+   "source": "Hartmann Schedel, Liber chronicarum (Nürnberg 1493), fol. CXC verso – CXCI recto, Holzschnitt aus der Werkstatt Michael Wolgemuts und Wilhelm Pleydenwurffs; via Wikimedia Commons (gemeinfrei)."
+  }
+ ]
 }
