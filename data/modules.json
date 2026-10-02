@@ -1,0 +1,69 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "grundstein",
+   "side": "rat",
+   "kurz": "Die Grundsteinlegung, 30. Juni 1377",
+   "warum": "Felix Fabris Bericht: der Bürgermeister in der Baugrube, hundert Gulden auf dem Stein, eine Kirche ohne Pilger, ohne Hilfe und ohne Betteln.",
+   "quelle": "Felix Fabri, Tractatus de civitate Ulmensi, hg. G. Veesenmeyer (Tübingen 1889)."
+  },
+  {
+   "id": "ensinger",
+   "side": "meister",
+   "kurz": "Der Vertrag des Baumeisters: Ulrich von Ensingen, 1392",
+   "warum": "Lohn, Pflichten und Freiheiten des Werkmeisters, sein Turmentwurf und sein Gang nach Straßburg.",
+   "quelle": "A. Carstanjen, Ulrich von Ensingen (München 1893); Ulmisches Urkundenbuch."
+  },
+  {
+   "id": "buergerkirche",
+   "side": "buerger",
+   "kurz": "Rat, Pfleger und Stifter",
+   "warum": "Wie die Stadt ihre Kirche verwaltete und bezahlte: Pfleger, Stiftungen von Altären und Fenstern, der Kauf des Patronats.",
+   "quelle": "F. Pressel, Ulm und sein Münster (Ulm 1877); Ulmisches Urkundenbuch."
+  },
+  {
+   "id": "fabri1488",
+   "side": "kirche",
+   "kurz": "Fabris Münster, 1488",
+   "warum": "Die Beschreibung des Baus durch einen Zeitgenossen: Maße, Altäre, der Turm, der in den Himmel wachsen will.",
+   "quelle": "Felix Fabri, Tractatus de civitate Ulmensi (1889)."
+  },
+  {
+   "id": "huette",
+   "side": "meister",
+   "kurz": "Die Ordnung der Steinmetzen, Regensburg 1459",
+   "warum": "Lehrzeit, Gericht und Geheimnis der Bauhütten, die sich in Regensburg eine gemeinsame Ordnung gaben.",
+   "quelle": "C. A. von Heideloff, Die Bauhütte des Mittelalters in Deutschland (Nürnberg 1844)."
+  },
+  {
+   "id": "turm1492",
+   "side": "meister",
+   "kurz": "1492: die fallenden Steine",
+   "warum": "Matthäus Böblinger muss gehen, Gutachter werden geholt, Burkhard Engelberg sichert den Bau. Was wusste der Rat, und wem gab er die Schuld?",
+   "quelle": "F. Pressel, Ulm und sein Münster (1877); Verhandlungen des Vereins für Kunst und Alterthum in Ulm und Oberschwaben."
+  },
+  {
+   "id": "bildersturm",
+   "side": "kirche",
+   "kurz": "Die Reformation im Münster, 1531",
+   "warum": "Die Stadt nimmt die neue Lehre an; Altäre und Bilder werden aus der Kirche entfernt. Die Bauarbeit ruht bald danach.",
+   "quelle": "F. Pressel, Ulm und sein Münster (1877) und die Ulmer Reformationsgeschichte des 19. Jahrhunderts."
+  },
+  {
+   "id": "vollendung",
+   "side": "nachwelt",
+   "kurz": "Der Turm, 1844–1890",
+   "warum": "Die Wiederaufnahme des Baus und die Vollendung des Turms im 19. Jahrhundert, kritisch gelesen: was die Festschriften feierten und warum.",
+   "quelle": "F. Pressel, Ulm und sein Münster (1877); Berichte des Münsterbauvereins."
+  },
+  {
+   "id": "vergleich",
+   "side": "nachwelt",
+   "kurz": "Straßburg und Köln",
+   "warum": "Was andere Städte mit ihren Türmen taten: Goethes ‚Von deutscher Baukunst‘ (1772) über Straßburg und Boisserées Kölner Dom.",
+   "quelle": "J. W. Goethe, Von deutscher Baukunst (1772); S. Boisserée, Geschichte und Beschreibung des Doms von Köln (1823)."
+  }
+ ],
+ "missing": []
+}

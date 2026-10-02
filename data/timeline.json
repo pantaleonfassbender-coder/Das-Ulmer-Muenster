@@ -1,0 +1,71 @@
+{
+ "lede": "Vom Grundstein 1377 bis zum vollendeten Turm 1890. Die Stationen verweisen auf die Stellen im Apparat; wo noch kein Text abgedruckt ist, folgen sie der neueren Literatur und sagen es.",
+ "stations": [
+  {
+   "d": "30. Juni 1377",
+   "side": "rat",
+   "titel": "Der Grundstein",
+   "text": "Bürgermeister Ludwig Krafft legt den ersten Stein der neuen Pfarrkirche und bedeckt ihn mit hundert Gulden. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1392",
+   "side": "meister",
+   "titel": "Ulrich von Ensingen",
+   "text": "Die Stadt stellt Ulrich von Ensingen als Werkmeister an; er plant einen Westturm von nie gesehener Höhe. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1405",
+   "side": "kirche",
+   "titel": "Die Weihe",
+   "text": "Die noch unvollendete Kirche wird geweiht; Gottesdienst und Bau gehen nebeneinander weiter. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1459",
+   "side": "meister",
+   "titel": "Die Steinmetzordnung",
+   "text": "Die Steinmetzen und Werkmeister der Bauhütten geben sich in Regensburg eine gemeinsame Ordnung. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1488",
+   "side": "kirche",
+   "titel": "Fabris Beschreibung",
+   "text": "Felix Fabri beschreibt die Stadt und ihr Münster, das in hundertelf Jahren ohne fremde Hilfe gewachsen sei. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1492",
+   "side": "meister",
+   "titel": "Die fallenden Steine",
+   "text": "Steine fallen aus dem Gewölbe; der Baumeister Matthäus Böblinger verlässt die Stadt, Gutachter werden geholt. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "um 1500",
+   "side": "meister",
+   "titel": "Engelbergs Rettung",
+   "text": "Burkhard Engelberg sichert den Bau, unter anderem durch die Teilung der Seitenschiffe. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1531",
+   "side": "kirche",
+   "titel": "Der Bildersturm",
+   "text": "Ulm nimmt die Reformation an; Altäre und Bilder werden aus dem Münster entfernt. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1543",
+   "side": "rat",
+   "titel": "Der Bau ruht",
+   "text": "Die Arbeit am Münster wird eingestellt; der Turm bleibt unvollendet. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1844",
+   "side": "nachwelt",
+   "titel": "Der Bau beginnt wieder",
+   "text": "Nach drei Jahrhunderten wird am Münster wieder gebaut. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1890",
+   "side": "nachwelt",
+   "titel": "Der Turm",
+   "text": "Der Westturm wird vollendet, nach dem Plan, der auf Ensingen und Böblinger zurückgeht. (Darstellung nach neuerer Literatur; Modul geplant.)"
+  }
+ ]
+}
