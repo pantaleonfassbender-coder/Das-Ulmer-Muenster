@@ -39,7 +39,9 @@
    "d": "1405",
    "side": "kirche",
    "titel": "Die Weihe",
-   "text": "Die noch unvollendete Kirche wird geweiht; Gottesdienst und Bau gehen nebeneinander weiter. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Die noch unvollendete Kirche wird geweiht; Gottesdienst und Bau gehen nebeneinander weiter. Fabri erwähnt die Weihe, nennt aber kein Jahr; das Datum folgt der neueren Literatur.",
+   "cite": "#/text/fabri1488/vorzuege/9",
+   "citeLabel": "Vorzüge [9]"
   },
   {
    "d": "1446",
@@ -60,9 +62,10 @@
    "d": "1488",
    "side": "kirche",
    "titel": "Fabris Beschreibung",
-   "text": "Felix Fabri rühmt, die Stadt habe ihr Münster in hundertelf Jahren ohne Pilger, ohne Hilfe und Betteln gebaut; das Gotteshaus sei längst vollendet, der Turm wachse noch.",
-   "cite": "#/text/grundstein/fabri/5",
-   "citeLabel": "Grundstein [5]"
+   "text": "Felix Fabri rühmt, die Stadt habe ihr Münster in hundertelf Jahren ohne Pilger, ohne Hilfe und Betteln gebaut, zählt die Vorzüge der Kirche auf, vom Licht bis zu den einundfünfzig Altären der Bürger, und klagt zugleich, die Heutigen wagten nicht, dem Plan der Gründer zu folgen.",
+   "cite": "#/text/fabri1488/werke/2",
+   "citeLabel": "Fünf Werke [2]",
+   "plate": "turmriss"
   },
   {
    "d": "1492",
@@ -86,7 +89,8 @@
    "d": "1543",
    "side": "rat",
    "titel": "Der Bau ruht",
-   "text": "Die Arbeit am Münster wird eingestellt; der Turm bleibt unvollendet. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Die Arbeit am Münster wird eingestellt; der Turm bleibt unvollendet. (Darstellung nach neuerer Literatur; Modul geplant.)",
+   "plate": "falger1829"
   },
   {
    "d": "1844",

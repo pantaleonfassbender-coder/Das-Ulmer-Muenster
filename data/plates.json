@@ -1,6 +1,6 @@
 {
  "lede": "Risse, Ansichten und Bilder des Münsters aus gemeinfreien Drucken; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493) und Matthäus Merians Münsterplatz (1643), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), nach dem Scan im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
+ "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), der Planriss des Westturms (Ende 15. Jahrhundert, Ulmer Museum), Matthäus Merians Münsterplatz (1643) und Anton Falgers Westansicht (1829), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), nach dem Scan im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
  "plates": [
   {
    "id": "ulma1493",
@@ -22,6 +22,20 @@
    "titel": "Der Münsterplatz, 1643",
    "caption": "Das Münster in der Vogelschau Matthäus Merians, hundert Jahre nach der Bauruhe von 1543: das Langhaus mit seinen Strebepfeilern, der Westturm mit einem niedrigen Abschluss statt des Helms, den erst das 19. Jahrhundert baute, und an der Langseite ein umfriedeter Hof mit Bäumen, ringsum eng umstellt von den Häusern der Bürger. Links, nach Lage und Form wohl Kirche und Kloster der Barfüßer, deren Garten 1377 für die Türme weichen musste (Grundstein [2]). Die Kirche, die der Rat bauen ließ und deren Patronat er 1446 kaufte (Reichenau [5]), steht mitten in der Stadt, wie Fabri es beschreibt.",
    "source": "Matthäus Merian d. Ä., Ausschnitt aus der Vogelschau von Ulm, in: Martin Zeiller, Topographia Sueviae (Frankfurt am Main 1643); via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "turmriss",
+   "side": "meister",
+   "titel": "Der Plan des Turms",
+   "caption": "Drei Ausschnitte aus dem Planriss des Westturms, Ende des 15. Jahrhunderts, im Ulmer Museum, von der neueren Literatur Matthäus Böblinger zugeschrieben: links der durchbrochene Helm, rechts die unteren Geschosse. So sollte der Turm werden, den Fabri 1488 ‚in den Himmel wachsen‘ sah und dessen Plan nach seinen Worten ‚einen viel kostbareren Tempel zeigt als den, an dem wir heute arbeiten‘ (Fünf Werke [2]). Gebaut wurde der Helm erst im 19. Jahrhundert, in Anlehnung an diesen Riss. Die Reproduktion ist klein.",
+   "source": "Planriss des Westturms des Ulmer Münsters, Ende 15. Jahrhundert, Ulmer Museum, Matthäus Böblinger zugeschrieben; Reproduktion über Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "falger1829",
+   "side": "kirche",
+   "titel": "Der Stumpf, 1829",
+   "caption": "Die Westseite des Münsters in Anton Falgers Tafelwerk von 1829: der Turm bricht über dem Viereck ab, ein niedriges Dach darüber, so wie er seit der Bauruhe von 1543 stand. Die Unterschrift nennt den ‚Bauanfang 1377‘ und eine Turmhöhe von 237 Fuß. Das ist der Bau, den Fabri lobte und dessen Zurückbleiben hinter dem Plan der Gründer er beklagte (Fünf Werke [2]); so blieb er dreihundert Jahre.",
+   "source": "Anton Falger, Abbildung der vornehmsten Gebäude altdeutscher Bauart (1829), Tafel XXXI, nach dem Digitalisat der Bayerischen Staatsbibliothek (bsb11856823); via Wikimedia Commons (gemeinfrei)."
   }
  ]
 }

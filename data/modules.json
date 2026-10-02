@@ -23,16 +23,17 @@
    "kurz": "Die Kirche der Bürger: Patronat und Pfleger",
    "zk": "Reichenau",
    "warum": "Felix Fabri (1488), am Seitenbild gelesen, Latein mit neuhochdeutscher Übersetzung: wie die Stadt den Klöstern Bebenhausen und Reichenau ihre Rechte abkaufte, bis sie selbst Patron ihrer Pfarrkirche war; was die Ulmer dabei gegen das Kirchenrecht taten, nach Fabris eigenem Eingeständnis; vierzehn Jahre Bann und 24 000 Gulden. Dazu die Ämter, mit denen der Rat das Geld verwaltete: Rechner, Pfleger der Pfarrkirche, des Spitals und der Armen, und der Satz, Stadt, Kirche und Spital hätten ‚einen Beutel‘."
+  },
+  {
+   "id": "fabri1488",
+   "datei": "fabri1488",
+   "side": "kirche",
+   "kurz": "Fabris Münster, 1488",
+   "zk": "Vorzüge",
+   "warum": "Felix Fabri beschreibt die Kirche, wie er sie 1488 sah, am Seitenbild gelesen, Latein mit neuhochdeutscher Übersetzung: ‚neun‘ Vorzüge, von denen er zehn zählt, vom Licht über die einundfünfzig Altäre der Bürger und den Opferstock für den Bau bis zum Lärm der müßigen Geistlichen. Dazu seine Liste der fünf Werke, die die Stadt zugleich stemmte, mit dem schärfsten Satz seines Lobs: Der Plan der Gründer zeige einen viel kostbareren Tempel als den, an dem man heute baut, weil die Kleinmütigen von heute ihm nicht zu folgen wagen."
   }
  ],
  "planned": [
-  {
-   "id": "fabri1488",
-   "side": "kirche",
-   "kurz": "Fabris Münster, 1488",
-   "warum": "Die Beschreibung des Baus durch einen Zeitgenossen: Maße, Altäre, der Turm, der in den Himmel wachsen will.",
-   "quelle": "Felix Fabri, Tractatus de civitate Ulmensi (1889)."
-  },
   {
    "id": "huette",
    "side": "meister",

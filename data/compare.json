@@ -90,6 +90,50 @@
      ]
     }
    ]
+  },
+  {
+   "id": "plan",
+   "titel": "Lob und Klage",
+   "frage": "Fabri 1488, zweimal über denselben Bau.",
+   "note": "Beim Grundstein ist Fabri ganz Bewunderung: ein Tempel, staunenswert für alle Völker, dessen Turm wachse, ‚als wolle er in den Himmel wachsen‘. In der Liste der fünf Werke sagt er, der Plan der Gründer zeige einen viel kostbareren Tempel als den, an dem man heute arbeitet, und die ‚parvifici‘ von heute strichen täglich am Schmuck. Beides schreibt derselbe Mann im selben Jahr; das Lob gilt den Gründern, die Klage den Lebenden.",
+   "voices": [
+    {
+     "text": "grundstein",
+     "sec": "fabri",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "fabri1488",
+     "sec": "werke",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "loskauf",
+   "titel": "Zweimal der Loskauf",
+   "frage": "Fabri erzählt den Kauf von der Reichenau zweimal, und nicht gleich.",
+   "note": "Beide Male zahlen die Ulmer 24 000 Gulden. Im ersten Bericht stehen vierzehn Jahre Bann, ein ‚feiner Kunstgriff des Rechts‘ und der Satz, bald danach hätte auch doppeltes Gold nichts mehr erreicht. Im zweiten stehen ‚viele Bannsprüche‘, und einen Monat später hätte der Abt ‚kaum hunderttausend Gulden‘ genommen. Dafür zählt der zweite Bericht auf, was gekauft wurde: Patronat, Zehnten, Zölle, Abgaben von jedem Haus und Herd, Bußen, Ämter, ‚bis auf den Nagel‘.",
+   "voices": [
+    {
+     "text": "buergerkirche",
+     "sec": "reichenau",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "fabri1488",
+     "sec": "werke",
+     "n": [
+      5
+     ]
+    }
+   ]
   }
  ]
 }
