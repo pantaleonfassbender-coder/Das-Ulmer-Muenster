@@ -4,7 +4,7 @@ Ein Quellenapparat zum Bau des Ulmer Münsters: vom Grundstein 1377 über die Ba
 
 These, an den Texten zu prüfen: Die Bürger bauten ohne Hilfe und Betteln, wie Felix Fabri 1488 rühmte, und vollenden konnten sie ihren Turm nicht; das tat erst ein anderes Jahrhundert, aus anderen Gründen.
 
-Stufe 1 (in Arbeit) enthält bisher acht Module:
+Stufe 1 (in Arbeit) enthält neun Module:
 
 - **Die Grundsteinlegung, 30. Juni 1377** — Felix Fabri, *Tractatus de civitate Ulmensi* (1488), hg. Veesenmeyer (1889), S. 36–38: Verlegung der Pfarrkirche, Bauplatz, Grundsteinlegung und Fabris Rückblick, Latein mit neuhochdeutscher Arbeitsübersetzung.
 - **Der Vertrag des Baumeisters: Ulrich von Ensingen, 1391–1402** — A. W. Fr. Carstanjen, *Ulrich von Ensingen* (1893), Urkundenanhang Nr. I–IX, S. 121–129: der Ulmer Vertrag vom 17. Juni 1392 vollständig (Frühneuhochdeutsch), die Mailänder Einträge 1391–1395 (Latein) und zwei Straßburger Stücke von 1399 und 1402, jeweils mit neuhochdeutscher Arbeitsübersetzung.
@@ -14,10 +14,11 @@ Stufe 1 (in Arbeit) enthält bisher acht Module:
 - **1492: die fallenden Steine** — Elias Frick, *Templum Parochiale Ulmensium* (1718), S. 45–47, und Rudolf Pfleiderer, *Münsterbuch* (1907), S. 12–13: Steinfall, Böblingers Weggang, der Brief an Esslingen 1493 und Engelbergs Unterfangung 1494–1502, in zwei späteren Stimmen (Fraktur am Seitenbild gelesen); für 1492 liegt keine zeitgenössische Quelle im Volltext vor.
 - **Die Reformation im Münster, 1531–1552** — Elias Frick (1718), S. 49–50, und Rudolf Pfleiderer (1907), S. 19–20: Altäre, Bilder und Orgeln 1531, der Holztisch, das Interim 1548; zwei spätere Stimmen, Fraktur am Seitenbild gelesen.
 - **Der Turm, 1844–1890** — Rudolf Pfleiderer, *Das Ulmer Münster in seiner Vollendung* (Gartenlaube 1890), und Max Bach, *Beyer, August* (ADB 46, 1902), nach den korrigierten Transkriptionen von Wikisource: Restaurierung ab 1844, Turmbau 1885–1890, die Festsprache kritisch gelesen.
+- **Straßburg und Köln** — J. W. Goethe, *Von deutscher Baukunst* (1772/73), S. 83–89 im Neudruck Lambel 1892, und Sulpiz Boisserée, *Geschichte und Beschreibung des Doms von Köln* (1842), S. 86 und 106–107: Fraktur am Seitenbild gelesen; Goethe mit Übertragung.
 
-Tafeln: Ulm in Schedels Weltchronik (1493); Ulrichs Meisterzeichen nach Carstanjen (1893); der Münsterplatz nach Merian (1643); der Planriss des Westturms (Ende 15. Jh.); Falgers Westansicht (1829); Roriczers Fialen nach Heideloff (1844); Böblingers Ölberg nach Pfleiderer (1907); der Innenraum nach Frick (1718); die Baustelle 1887; das vollendete Münster in der Gartenlaube (1890). Vierzehn Vergleiche: Was ein Meister kostet (Ulm und Mailand), Darf der Meister anderswo bauen? (Ulm und Straßburg), Ohne Betteln (Grundstein und Armenpfleger), Wer ist der Bauherr? (Vertrag 1392 und Pfleger), Lob und Klage (Fabri über Gründer und Heutige), Zweimal der Loskauf (Fabris zwei Berichte), Der Plan bindet (Ordnung 1459 und Fabri), Wie viele Lehrlinge? (Vertrag 1392 und Ordnung 1459), Floh der Meister? (Frick und Pfleiderer), Wie der Rat seine Meister band (Verträge 1392 und 1480), Die Altäre der Bürger (Fabri und Pfleiderer), Wer riss die Orgel herunter? (Frick und Pfleiderer), Ohne Hilfe, mit Hilfe (Fabri und Pfleiderer 1890), Darf der Nachfolger den Plan ändern? (Ordnung 1459 und Turmbau 1890).
+Tafeln: Ulm in Schedels Weltchronik (1493); Ulrichs Meisterzeichen nach Carstanjen (1893); der Münsterplatz nach Merian (1643); der Planriss des Westturms (Ende 15. Jh.); Falgers Westansicht (1829); Roriczers Fialen nach Heideloff (1844); Böblingers Ölberg nach Pfleiderer (1907); der Innenraum nach Frick (1718); die Baustelle 1887; das vollendete Münster in der Gartenlaube (1890); Köln unvollendet und ergänzt nach Boisserée (1821). Sechzehn Vergleiche: Was ein Meister kostet (Ulm und Mailand), Darf der Meister anderswo bauen? (Ulm und Straßburg), Ohne Betteln (Grundstein und Armenpfleger), Wer ist der Bauherr? (Vertrag 1392 und Pfleger), Lob und Klage (Fabri über Gründer und Heutige), Zweimal der Loskauf (Fabris zwei Berichte), Der Plan bindet (Ordnung 1459 und Fabri), Wie viele Lehrlinge? (Vertrag 1392 und Ordnung 1459), Floh der Meister? (Frick und Pfleiderer), Wie der Rat seine Meister band (Verträge 1392 und 1480), Die Altäre der Bürger (Fabri und Pfleiderer), Wer riss die Orgel herunter? (Frick und Pfleiderer), Ohne Hilfe, mit Hilfe (Fabri und Pfleiderer 1890), Darf der Nachfolger den Plan ändern? (Ordnung 1459 und Turmbau 1890), Nur ein Turm (Fabri und Goethe), Deutsche Baukunst (Goethe und Pfleiderer).
 
-Geplante Module in der Reihenfolge der Arbeit: siehe `data/modules.json`.
+Was geprüft und nicht aufgenommen wurde, steht mit Begründung in `data/modules.json` (`missing`) und auf der Seite ‚Texte‘.
 
 ## Daten bauen
 
@@ -30,6 +31,7 @@ python tools/build-huette.py
 python tools/build-turm1492.py
 python tools/build-bildersturm.py
 python tools/build-vollendung.py
+python tools/build-vergleich.py
 python tools/verify.py
 ```
 

@@ -314,6 +314,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "einturm",
+   "titel": "Nur ein Turm",
+   "frage": "Fabri 1488 über Ulm und Goethe 1772 über Straßburg.",
+   "note": "Fabri bewundert den Ulmer Turm, der ‚in den Himmel wachsen‘ will, und klagt im selben Jahr, die Heutigen blieben hinter dem Plan der Gründer zurück. Goethe lässt den Geist Erwins klagen, dass von zwei geplanten Türmen ‚nur einer traurig da steht‘. Beide Münster waren Bürgerbauten mit einem einzigen, unvollendeten Turm, und beide verbanden der Meister Ulrich von Ensingen: Er plante den Ulmer Turm und baute das Straßburger Achteck.",
+   "voices": [
+    {
+     "text": "fabri1488",
+     "sec": "werke",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "vergleich",
+     "sec": "goethe",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deutsch",
+   "titel": "Deutsche Baukunst",
+   "frage": "Goethe 1772 und Pfleiderer 1890.",
+   "note": "Goethe ruft vor dem Straßburger Münster: ‚das ist deutsche Baukunst, unsre Baukunst‘, und irrt sich, denn die Gotik kam aus Frankreich. Hundertachtzehn Jahre später feiert Pfleiderer den Ulmer Turm mit Schubarts Wort von den ‚heiligen Spuren deutscher Kraft und deutschen Geistes‘ und nennt die Vollendung eine ‚Wiedergeburt‘. Was Goethe als Empfindung eines jungen Mannes begann, wurde zum Programm, mit dem man die Dome in Köln und Ulm vollendete.",
+   "voices": [
+    {
+     "text": "vergleich",
+     "sec": "goethe",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "vollendung",
+     "sec": "gartenlaube",
+     "n": [
+      1,
+      3
+     ]
+    }
+   ]
   }
  ]
 }

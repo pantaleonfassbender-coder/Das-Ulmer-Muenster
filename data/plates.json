@@ -1,6 +1,6 @@
 {
  "lede": "Risse, Ansichten und Bilder des Münsters aus gemeinfreien Drucken; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), der Planriss des Westturms (Ende 15. Jahrhundert, Ulmer Museum), Matthäus Merians Münsterplatz (1643), Anton Falgers Westansicht (1829), eine Aufnahme des Turmbaus (1887) und die Gartenlaube-Ansicht des vollendeten Münsters (1890), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), Roriczers Fialen aus C. A. Heideloff, Die Bauhütte des Mittelalters (1844), Böblingers Ölberg aus R. Pfleiderer, Münsterbuch (1907), und den Innenraum aus E. Frick, Templum Parochiale Ulmensium (1718), nach den Scans im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
+ "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), der Planriss des Westturms (Ende 15. Jahrhundert, Ulmer Museum), Matthäus Merians Münsterplatz (1643), Anton Falgers Westansicht (1829), zwei Tafeln aus Sulpiz Boisserées Kölner Domwerk (1821), eine Aufnahme des Turmbaus (1887) und die Gartenlaube-Ansicht des vollendeten Münsters (1890), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), Roriczers Fialen aus C. A. Heideloff, Die Bauhütte des Mittelalters (1844), Böblingers Ölberg aus R. Pfleiderer, Münsterbuch (1907), und den Innenraum aus E. Frick, Templum Parochiale Ulmensium (1718), nach den Scans im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
  "plates": [
   {
    "id": "ulma1493",
@@ -71,6 +71,20 @@
    "titel": "Vollendet, 1890",
    "caption": "‚Das Ulmer Münster in seiner Vollendung‘, Stich nach einer Photographie von Karl Herrlinger in Ulm, gedruckt in der Gartenlaube 1890 zu Pfleiderers Festartikel (Gartenlaube [1]–[7]): der Turm mit Achteck und Helm, 161 Meter, auf dem freigeräumten Münsterplatz mit Kutschen und Spaziergängern. Das Bild, mit dem die Familienzeitschrift ganz Deutschland den vollendeten Turm zeigte; Fabris Turm, der 1488 ‚in den Himmel wachsen‘ wollte (Grundstein [5]), nach Böblingers Plan, aber höher.",
    "source": "Die Gartenlaube 1890, S. 440, nach einer Photographie von Karl Herrlinger; Scan über Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "koeln1821",
+   "side": "nachwelt",
+   "titel": "Köln, unvollendet, 1821",
+   "caption": "Der Kölner Dom von Südosten in Boisserées Tafelwerk: der hohe gotische Chor, daneben das niedrige Langhaus mit Notdach, links der Stumpf des Südturms mit dem mittelalterlichen Baukran, der seit dem Baustopp im 16. Jahrhundert dort stand. Köln war wie Ulm ein Torso mit einem Turmstumpf (Tafel ‚Der Stumpf, 1829‘); Boisserée warb mit diesen Blättern für die Vollendung, die 1842 begann und 1880 abgeschlossen wurde.",
+   "source": "Sulpiz Boisserée, Ansichten, Risse und einzelne Theile des Doms von Köln (Stuttgart: Cotta 1821), Tafel 1, gezeichnet von Michael Angelo Quaglio, radiert von Johann Adolph Darnstedt; via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "koeln_ergaenzt",
+   "side": "nachwelt",
+   "titel": "Köln, ‚nach dem Entwurf des Meisters‘",
+   "caption": "Dieselbe Kirche als Wunschbild: die Südseite des Kölner Doms, wie sie nach den mittelalterlichen Rissen vollendet aussehen sollte, mit zwei Türmen und dem Vierungsturm. Boisserées Tafel ist ein Plan, kein Bild eines Baus; sie zeigt, was in Ulm Böblingers Riss war (Tafel ‚Der Plan des Turms‘): die Vorlage, nach der das 19. Jahrhundert vollendete, was das Mittelalter liegen gelassen hatte.",
+   "source": "Sulpiz Boisserée, Ansichten, Risse und einzelne Theile des Doms von Köln (Stuttgart: Cotta 1821), Tafel 3, gezeichnet von Maximilian Heinrich Fuchs, radiert von Christian Friedrich Traugott Duttenhofer; via Wikimedia Commons (gemeinfrei)."
   }
  ]
 }

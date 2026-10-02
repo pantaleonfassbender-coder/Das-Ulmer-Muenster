@@ -63,16 +63,52 @@
    "kurz": "Der Turm, 1844–1890",
    "zk": "Gartenlaube",
    "warum": "Rudolf Pfleiderers Festartikel zur Vollendung in der Gartenlaube 1890 und Max Bachs Lebensbild des Turmvollenders August Beyer in der ADB 1902, kritisch gelesen: der ‚deutsche Frühling‘ von 1813 und der Beginn 1844, das Königswort und die Gaben der ganzen Nation statt ‚ohne Hilfe und Betteln‘, ein Turm, der zehn Meter höher wurde als Böblingers Plan und fünf Meter höher als Köln, hundert Arbeiter ohne Namen, der Schlussstein unter der deutschen und der württembergischen Fahne, und eine Bauhütte, die die Ulmer ihrem gefeierten Meister verweigerten."
-  }
- ],
- "planned": [
+  },
   {
    "id": "vergleich",
+   "datei": "vergleich",
    "side": "nachwelt",
    "kurz": "Straßburg und Köln",
-   "warum": "Was andere Städte mit ihren Türmen taten: Goethes ‚Von deutscher Baukunst‘ (1772) über Straßburg und Boisserées Kölner Dom.",
-   "quelle": "J. W. Goethe, Von deutscher Baukunst (1772); S. Boisserée, Geschichte und Beschreibung des Doms von Köln (1823)."
+   "zk": "Goethe",
+   "warum": "Goethes ‚Von deutscher Baukunst‘ (1772/73) über das Straßburger Münster, das wie Ulm nur einen Turm hatte und dessen Achteck Ulrich von Ensingen baute, und Sulpiz Boisserées Geschichte des Kölner Doms (1842), die Ulm als Beispiel des Sparens am Strebewerk nennt und erzählt, wie man auf dem verlorenen Kölner Riss Bohnen trocknete. Beide in Fraktur am Seitenbild gelesen; die Anmerkungen nennen Goethes folgenreichen Irrtum, die Gotik sei ‚deutsche Baukunst‘."
   }
  ],
- "missing": []
+ "planned": [],
+ "missing": [
+  {
+   "id": "fischer",
+   "side": "buerger",
+   "kurz": "Sebastian Fischers Chronik",
+   "warum": "Nicht aufgenommen, weil nicht erreichbar: Die Ulmer Chronik des 16. Jahrhunderts, auf die die Überlieferung vom Steinfall 1492 und vom Unterfangen bis 1502 zurückgeht, liegt in keinem freien Digitalisat vor, das hier gefunden wurde. Sie steht im Apparat aus zweiter Hand, bei Frick (1718) und Pfleiderer (1907; Modul ‚1492‘).",
+   "quelle": "Sebastian Fischers Chronik, besonders von Ulmischen Sachen, hg. von K. G. Veesenmeyer (Ulm 1896)."
+  },
+  {
+   "id": "ratsprotokolle",
+   "side": "rat",
+   "kurz": "Die Ratsprotokolle und die Kirchenordnung von 1531",
+   "warum": "Nicht aufgenommen, weil nicht im Volltext erreichbar: Die Ulmer Ratsprotokolle zum Bildersturm kennt der Apparat nur aus Pfleiderers Zitaten, die gedruckte Kirchenordnung von 1531 nur aus Richters Auszug (1846). Das Modul ‚Reformation‘ sagt es.",
+   "quelle": "Stadtarchiv Ulm, Ratsprotokolle 1531; die gedruckte Ulmer Kirchenordnung (1531); A. L. Richter, Die evangelischen Kirchenordnungen des sechszehnten Jahrhunderts I (Weimar 1846), S. 157–159."
+  },
+  {
+   "id": "pressel",
+   "side": "nachwelt",
+   "kurz": "Pressels Festschrift von 1877",
+   "warum": "Geprüft und nicht aufgenommen: Friedrich Pressels ‚Ulm und sein Münster‘ ist in Fraktur gesetzt, die maschinelle Texterkennung unbrauchbar, und für die Fragen dieses Apparats bringt Pfleiderers ‚Münsterbuch‘ (1907) dieselben Nachrichten in neuerem Stand.",
+   "quelle": "F. Pressel, Ulm und sein Münster. Festschrift zur Erinnerung an den 30. Juni 1377 (Ulm 1877)."
+  },
+  {
+   "id": "binder",
+   "side": "nachwelt",
+   "kurz": "Der Bericht vom Münsterjubiläum 1877",
+   "warum": "Nicht aufgenommen: Gustav Binders Gartenlaube-Bericht über das Fest zum fünfhundertsten Jahrestag der Grundsteinlegung wäre ein gutes Gegenstück zu Pfleiderers Festartikel von 1890, aber seine Lebensdaten ließen sich nicht klären und damit auch nicht, ob der Text gemeinfrei ist.",
+   "quelle": "G. Binder, Das Münsterjubiläum in Ulm, in: Die Gartenlaube 1877, S. 404–407."
+  },
+  {
+   "id": "urkundenbuch",
+   "side": "rat",
+   "kurz": "Das Ulmische Urkundenbuch",
+   "warum": "Geprüft und nicht als eigenes Modul aufgenommen: Der erste Band (1873) reicht bis 1314 und endet vor dem Münsterbau; der Vertrag mit Ulrich von Ensingen steht im Apparat nach Carstanjen (1893), der ihn vollständig druckt.",
+   "quelle": "Ulmisches Urkundenbuch I, hg. von F. Pressel (Stuttgart 1873)."
+  }
+ ]
 }
