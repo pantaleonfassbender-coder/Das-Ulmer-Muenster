@@ -134,6 +134,50 @@
      ]
     }
    ]
+  },
+  {
+   "id": "visierung",
+   "titel": "Der Plan bindet",
+   "frage": "Die Steinmetzordnung 1459 und Fabri 1488: wer vom Plan abweichen darf.",
+   "note": "Die Ordnung bindet den Meister an seine eigene Visierung: Was er den Herren gezeigt hat, muss er bauen, ‚also, daß es nit geschwechet werde‘. Fabri klagt dreißig Jahre später in Ulm über das Umgekehrte: Nicht der Meister weicht ab, sondern ‚die Kleinmütigen von heute‘ bleiben hinter dem Plan der Gründer zurück und streichen am Schmuck. Die Ordnung kann den Meister binden; den Bauherrn, der spart, bindet sie nicht.",
+   "voices": [
+    {
+     "text": "huette",
+     "sec": "ordnung",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "fabri1488",
+     "sec": "werke",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lehrknaben",
+   "titel": "Wie viele Lehrlinge?",
+   "frage": "Der Ulmer Rat 1392 und die Bruderschaft 1459.",
+   "note": "Der Ulmer Vertrag erlaubt Ulrich von Ensingen ‚nicht mehr als zwei Lehrknaben‘. Die Ordnung von 1459 erlaubt einem Meister mit einem Bau drei Diener, mit mehreren Bauten höchstens fünf. Beide begrenzen, aus verschiedenen Gründen: der Rat, weil er für Gesellen zahlt und keine Lehrlinge auf seine Kosten ausbilden lassen will, die Bruderschaft, damit die Meister nicht mit billigen Lehrlingen statt mit Gesellen bauen. Die Gründe sind Vermutung; die Texte nennen sie nicht.",
+   "voices": [
+    {
+     "text": "ensinger",
+     "sec": "ulm",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "huette",
+     "sec": "ordnung",
+     "n": [
+      8
+     ]
+    }
+   ]
   }
  ]
 }

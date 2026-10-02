@@ -53,10 +53,13 @@
    "plate": "muensterplatz1643"
   },
   {
-   "d": "1459",
+   "d": "25. April 1459",
    "side": "meister",
    "titel": "Die Steinmetzordnung",
-   "text": "Die Steinmetzen und Werkmeister der Bauhütten geben sich in Regensburg eine gemeinsame Ordnung. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Auf dem Tag zu Regensburg geben sich die Meister und Gesellen der Bauhütten eine gemeinsame Ordnung; oberster Richter wird der Werkmeister des Straßburger Münsters, zu dessen Gebiet Ulm gehört. In der Liste der Meister, die in Regensburg gelobten, steht keiner aus Ulm.",
+   "cite": "#/text/huette/ordnung/15",
+   "citeLabel": "Hütte [15]",
+   "plate": "roriczer_fiale"
   },
   {
    "d": "1488",

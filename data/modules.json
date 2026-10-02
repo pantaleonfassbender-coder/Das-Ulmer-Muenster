@@ -31,16 +31,17 @@
    "kurz": "Fabris Münster, 1488",
    "zk": "Vorzüge",
    "warum": "Felix Fabri beschreibt die Kirche, wie er sie 1488 sah, am Seitenbild gelesen, Latein mit neuhochdeutscher Übersetzung: ‚neun‘ Vorzüge, von denen er zehn zählt, vom Licht über die einundfünfzig Altäre der Bürger und den Opferstock für den Bau bis zum Lärm der müßigen Geistlichen. Dazu seine Liste der fünf Werke, die die Stadt zugleich stemmte, mit dem schärfsten Satz seines Lobs: Der Plan der Gründer zeige einen viel kostbareren Tempel als den, an dem man heute baut, weil die Kleinmütigen von heute ihm nicht zu folgen wagen."
+  },
+  {
+   "id": "huette",
+   "datei": "huette",
+   "side": "meister",
+   "kurz": "Die Ordnung der Steinmetzen, Regensburg 1459",
+   "zk": "Hütte",
+   "warum": "Die Ordnung, die sich Meister und Gesellen der Bauhütten am 25. April 1459 in Regensburg gaben, nach Heideloffs Abdruck der Straßburger Fassung (1844), in Fraktur am Seitenbild gelesen, frühneuhochdeutsch mit neuhochdeutscher Übersetzung: Taglohn statt Akkord an den großen Domen, die Nachfolge beim Tod des Meisters, die Bindung an die Visierung, der Boykott gegen den, der einem Meister das Werk abjagt, kein Wissen um Geld, höchstens fünf Lehrlinge, Sittenregeln, die eine Frau nur als Grund zum Ausschluss kennen, eine Kasse für Kranke, fünf Jahre Lehre, kein unehelich Geborener, und Straßburg als oberster Richter über ein Gebiet bis Ulm."
   }
  ],
  "planned": [
-  {
-   "id": "huette",
-   "side": "meister",
-   "kurz": "Die Ordnung der Steinmetzen, Regensburg 1459",
-   "warum": "Lehrzeit, Gericht und Geheimnis der Bauhütten, die sich in Regensburg eine gemeinsame Ordnung gaben.",
-   "quelle": "C. A. von Heideloff, Die Bauhütte des Mittelalters in Deutschland (Nürnberg 1844)."
-  },
   {
    "id": "turm1492",
    "side": "meister",
