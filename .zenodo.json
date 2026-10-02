@@ -1,0 +1,36 @@
+{
+  "upload_type": "dataset",
+  "title": "Die Bürger bauen. Das Ulmer Münster 1377–1890. Ein Quellenapparat zum Bau einer Bürgerkirche",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein digitaler Quellenapparat zur Baugeschichte des Ulmer Münsters, von der Grundsteinlegung am 30. Juni 1377 bis zur Vollendung des Westturms am 31. Mai 1890. These, an den Texten zu prüfen: Die Bürger bauten ihre Pfarrkirche &bdquo;sine adiutorio et mendicatione&ldquo;, ohne Hilfe und Betteln, wie Felix Fabri 1488 rühmte; vollenden konnten sie den Turm nicht. Das tat erst das 19. Jahrhundert, mit königlicher Förderung, Spenden der Nation und einem nationalen Programm.</p><p>Stufe 1: neun Module mit 93 Einheiten, lateinische und frühneuhochdeutsche Originale neben einer neuhochdeutschen Arbeitsübersetzung: die Grundsteinlegung 1377 nach Fabris <em>Tractatus de civitate Ulmensi</em> (1488); der Vertrag Ulrichs von Ensingen 1392 mit den Mailänder und Straßburger Urkunden 1391&ndash;1402 (Carstanjen 1893); Patronat und Pfleger, der Loskauf von Reichenau (Fabri); Fabris Beschreibung des Münsters und der fünf Werke der Stadt; die Ordnung der Steinmetzen, Regensburg 1459 (Heideloff 1844); 1492, die fallenden Steine (Frick 1718, Pfleiderer 1907); die Reformation im Münster 1531&ndash;1552 (Frick, Pfleiderer); der Turm 1844&ndash;1890 (Pfleiderer, Gartenlaube 1890; Bach, ADB); Straßburg und Köln (Goethe, <em>Von deutscher Baukunst</em>, 1772/73; Boisserée 1842).</p><p>Jeder Auszug ist am Seitenbild des Digitalisats gelesen, die Fraktur-Drucke eingeschlossen. Zwei Texte des 19. Jahrhunderts folgen korrigierten Wikisource-Transkriptionen (Pfleiderers Gartenlaube-Artikel in Stichproben am Scan geprüft, Bachs ADB-Artikel nicht). Für 1492 und 1531 liegt keine zeitgenössische Quelle im Volltext vor; diese Module stellen spätere Stimmen gegeneinander und sagen das offen. Die Anmerkungen benennen Widersprüche der Quellen, die Gewalt der eigenen Seite und die Festsprache von 1890. Mit Zeitleiste, 16 Vergleichen, 12 gemeinfreien Bildtafeln und einer Liste der geprüften und nicht aufgenommenen Quellen. Begleitspiel: <em>Ohne Hilfe und Betteln</em>.</p><p><em>English:</em> A source apparatus (in German) for the building history of Ulm Minster, 1377&ndash;1890: nine modules, 93 units, Latin and Early New High German originals with working translations, every excerpt read against page images; timeline, 16 paired readings, 12 public-domain plates.</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen und Arbeitsübersetzungen CC0 1.0 &mdash; siehe LICENSES.md. Live: https://das-ulmer-muenster.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Ulmer Münster",
+    "Ulm Minster",
+    "Gotik",
+    "Bauhütte",
+    "Felix Fabri",
+    "Ulrich von Ensingen",
+    "Matthäus Böblinger",
+    "Steinmetzordnung 1459",
+    "Reformation",
+    "Bildersturm",
+    "Dombauvollendung",
+    "Historismus",
+    "Quellenedition",
+    "Digital Humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://das-ulmer-muenster.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}
