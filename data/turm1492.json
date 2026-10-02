@@ -1,0 +1,111 @@
+{
+ "id": "turm1492",
+ "titel": "1492: die fallenden Steine",
+ "autor": "Elias Frick (1718); Rudolf Pfleiderer (1907)",
+ "jahr": "1492–1512",
+ "sprache": "de",
+ "orig_sprache": "de",
+ "pg_label": "S.",
+ "quelle": "Elias Frick, Templum Parochiale Ulmensium = Ulmisches Münster (Ulm 1718), S. 45–47 (Internet Archive: 10002717bsb); Rudolf Pfleiderer, Münsterbuch. Das Ulmer Münster in Vergangenheit und Gegenwart (Ulm 1907), S. 12–13 (Internet Archive: Muensterbuch). Übertragung Fricks: eigene Arbeit.",
+ "hinweis": "Für 1492 liegt in diesem Apparat keine zeitgenössische Quelle im Volltext vor. Die Ereignisse stehen hier in zwei späteren Stimmen, beide in Fraktur am Seitenbild gelesen: Elias Frick 1718, der eine handschriftliche Ulmer Chronik auswertet, deren Verfasser sich auf seine Mutter als Augenzeugin beruft, und Rudolf Pfleiderer 1907, der dieselbe Überlieferung bezweifelt und einen Brief des Rats vom 5. Oktober 1493 zitiert. Fricks Text steht mit einer Übertragung ins heutige Deutsch, Pfleiderers ohne. Die Übertragung ist eigene Arbeit (CC0).",
+ "sections": [
+  {
+   "id": "frick",
+   "titel": "Frick 1718: Der Turm sinkt",
+   "zk": "Frick",
+   "blurb": "Maximilian steht 1492 auf dem unfertigen Turm; im selben Jahr fallen unter der Predigt zwei Steine, die Leute fliehen, der Baumeister geht ‚aus Furcht eines schlechten Traktaments‘. Baumeister aus achtundzwanzig Orten werden gerufen, nur Burkhard Engelberger aus Augsburg traut sich, und acht Jahre lang wird unterfangen statt aufgebaut.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Maximilian auf dem Turm",
+     "pg": "45",
+     "lang": "de",
+     "orig": "[...] wie dann ferner zu mercken / daß im Jahr 1492. Kayser Maximilianus I. Glorwürdigsten Andenckens / sich gefallen lassen / den Thurn in allerhöchster Person zu besteigen / als eine an dem achteckichten Thurn zur Seiten gegen Mitternacht eingehauene Inscription bezeuget / die also lautet: Maximilianus Romanorum primus ac Ungarie etc. Rex. ArchiDux Austrie, Burgundie Dux, hoc opus usque edificatum visitavit Anno Chri 1492, das ist: Maximilianus I. Römischer und Ungarischer ꝛc. König / Ertz-Hertzog zu Oesterreich / Hertzog zu Burgund / hat dieses biß hieher aufgeführte Werck besichtiget / Anno Christi 1492. Die gemeine Nachricht / die auch Crusius bestättiget / gibt ferner / daß damals höchstgedachte Kayserl. Majestät / weil noch der Crantz nicht um den Gang hergeführet gewesen / mit dem einen Fuß einen Schuh in die freye Lufft gemessen / welches allerseits bezeuget / daß damals der Thurn noch nicht so wie er jetzo ist / fertig gewesen /",
+     "en": "[...] wie ferner zu bemerken ist, dass im Jahr 1492 Kaiser Maximilian I. glorwürdigsten Andenkens geruhte, den Turm in allerhöchster Person zu besteigen, wie eine am achteckigen Turm auf der Nordseite eingehauene Inschrift bezeugt, die so lautet: ‚Maximilian, der Erste dieses Namens, König der Römer und Ungarns usw., Erzherzog von Österreich, Herzog von Burgund, hat dieses bis hierher erbaute Werk besichtigt, im Jahr Christi 1492.‘ Die allgemeine Überlieferung, die auch Crusius bestätigt, berichtet ferner, dass Seine Majestät damals, weil der Kranz noch nicht um den Umgang geführt war, mit dem einen Fuß einen Schuh weit in die freie Luft gemessen habe, was alles bezeugt, dass der Turm damals noch nicht so fertig war, wie er jetzt ist,",
+     "note": "Maximilian war 1492 römischer König, Kaiser wurde er erst 1508; Frick nennt ihn rückblickend Kaiser. Die Inschrift am Achteck war zu Fricks Zeit zu lesen. Die Geschichte vom Fuß in der Luft ist ‚gemeine Nachricht‘, also Ulmer Überlieferung, die Frick bei Martin Crusius (Annales Suevici, 1595/96) bestätigt fand; sie gehört zur Legende des kühnen Königs. Im Jahr, in dem der König oben stand, fielen unten die Steine ([3])."
+    },
+    {
+     "n": 2,
+     "titel": "Der Kranz von 1494, und nicht höher",
+     "pg": "45",
+     "lang": "de",
+     "orig": "wie man dann auch an dem Crantz auf der Seiten gegen Abend die Jahrzahl 1494. nebst dem Zeichen deß Meisters eingehauen findet / worauß zu schliessen / daß in besagtem Jahr bemeldter Crantz fertig worden / denn man wol vermuthlich den Gang so lange offen gelassen / biß man nicht mehr Steine und andere Bau-Materialien hinauf zu ziehen nöthig gehabt / mithin kome ich auch auf die Gedancken / daß in bemeldtem 1494. Jahr die Vollendung deß Dachs geschehen / weilen man weiter in die Höhe zu fahren sich nicht getrauet / auß Ursachen / die in folgendem §. zu melden. Nach Bruschii Bericht hat dieser gantze Bau 900000. fl. gekostet / welches er von Rathsherren will gehöret haben.",
+     "en": "wie man denn auch am Kranz auf der Westseite die Jahreszahl 1494 mit dem Zeichen des Meisters eingehauen findet; daraus ist zu schließen, dass dieser Kranz in dem genannten Jahr fertig wurde, denn man hat den Umgang vermutlich so lange offen gelassen, bis man keine Steine und anderen Baustoffe mehr hinaufziehen musste. Daher komme ich auch auf den Gedanken, dass im genannten Jahr 1494 das Dach vollendet wurde, weil man sich nicht getraute, weiter in die Höhe zu bauen, aus Ursachen, die im folgenden Paragraphen zu melden sind. Nach dem Bericht des Bruschius hat dieser ganze Bau 900 000 Gulden gekostet, was er von Ratsherren gehört haben will.",
+     "note": "Das Zeichen des Meisters mit der Jahreszahl 1494 ist für Pfleiderer das Gegenargument zur Geschichte von Böblingers Flucht 1492 (Pfleiderer [2]): Wer 1494 sein Zeichen setzt, ist nicht 1492 geflohen. Frick sieht dasselbe Zeichen und zieht den Schluss nicht. Die 900 000 Gulden des Humanisten Kaspar Brusch sind Hörensagen ‚von Ratsherren‘ und keine Rechnung."
+    },
+    {
+     "n": 3,
+     "titel": "Zwei Steine unter der Predigt",
+     "pg": "45–46",
+     "lang": "de",
+     "orig": "Daß aber die Ulmer nachgelassen den Thurn höher zu führen / hat ein beschwerlicher Zufall verursachet / der sich An. 1492. ereignet / als in welchem der Thurn um etwas zu sincken begunte / daß man besorgte er möchte einfallen / wie dann einsten an einem Sonntag zu Mittag unter der Predigt zwey Steine auß dem Gewölb herab gefallen / worüber groß Schrecken / wie jeder leicht erachten kan / entstanden / daß die Leute häuffig auß der Kirche geflohen / indem sie besorgt / der Thurn möchte einfallen / ob schon niemand Schaden geschehen. Es beschreibet dieses einer / dessen Mutter damahls selbsten in der Kirchen gewesen:",
+     "en": "Dass aber die Ulmer davon abließen, den Turm höher zu führen, hat ein schwerer Zufall verursacht, der sich im Jahr 1492 ereignete, als der Turm etwas zu sinken begann, so dass man fürchtete, er möchte einstürzen; wie denn einmal an einem Sonntag zu Mittag unter der Predigt zwei Steine aus dem Gewölbe herabfielen, worüber, wie jeder leicht ermessen kann, ein großer Schrecken entstand, so dass die Leute in Scharen aus der Kirche flohen, weil sie fürchteten, der Turm möchte einstürzen, obwohl niemandem ein Schaden geschah. Das beschreibt einer, dessen Mutter damals selbst in der Kirche gewesen ist:",
+     "note": "‚Einer, dessen Mutter damals selbst in der Kirche gewesen‘ ist nach Pfleiderer der Ulmer Chronist Sebastian Fischer (Pfleiderer [2]); Frick kannte die Chronik handschriftlich und nennt den Namen nicht. Es ist also ein Bericht aus zweiter Hand, aus dem Mund der Mutter, aufgeschrieben Jahrzehnte später. Niemand wurde verletzt. Das Spiel macht daraus seinen Unfall ohne Katastrophe: Steine fallen, der Turm steht."
+    },
+    {
+     "n": 4,
+     "titel": "Der Baumeister geht, man ruft achtundzwanzig Orte",
+     "pg": "46",
+     "lang": "de",
+     "orig": "Man fand im Nachsuchen zwey grosse Keller unter dem Thurn / die man zwar außgefüllet / aber gleichwol den Thurn noch nicht gesichert / und feste genug erachten konte; wann nun ohne dem der Baumeister auß Furcht eines schlechten tractaments durchgegangen / und man zwar processionen und Umgänge nach damaliger Zeiten Art gehalten / fernern Schaden abzubitten / doch aber auß selbigen so viel Zuversicht nicht schöpffen konnte / daß solche den Thurn werden stützen / so wurden auß 28. Orten Baumeister beschrieben / Rath und Hülffe zu leisten / unter welchen doch keiner der Sache zu helffen sich getrauet / ausser Burckhardt Engelberger / Steinmetz von Augspurg /",
+     "en": "Man fand beim Nachsuchen zwei große Keller unter dem Turm, die man zwar ausfüllte, aber den Turm dennoch nicht für gesichert und fest genug halten konnte. Da nun ohnehin der Baumeister aus Furcht vor schlechter Behandlung davongegangen war und man zwar nach der Art jener Zeiten Prozessionen und Umgänge hielt, um weiteren Schaden abzubitten, daraus aber doch nicht so viel Zuversicht schöpfen konnte, dass diese den Turm stützen würden, so wurden aus achtundzwanzig Orten Baumeister herbeigeschrieben, um Rat und Hilfe zu leisten; unter ihnen getraute sich doch keiner, der Sache zu helfen, außer Burkhard Engelberger, Steinmetz von Augsburg,",
+     "note": "‚Aus Furcht eines schlechten Traktaments durchgegangen‘: Frick nennt den Baumeister nicht, die neuere Literatur und Pfleiderer nennen ihn Matthäus Böblinger. Er fürchtete, wie Frick sagt, die Behandlung durch den Rat; die Stadt, die ihre Meister jederzeit entlassen konnte (Ensingen Ulm [2]), konnte sie auch haftbar machen. Der Protestant Frick schreibt 1718 über die Prozessionen von 1492 mit spürbarem Abstand: ‚nach damaliger Zeiten Art‘. Die achtundzwanzig Orte bestätigt Pfleiderer mit Vorsicht (‚soll ... gehalten worden sein‘, Pfleiderer [3])."
+    },
+    {
+     "n": 5,
+     "titel": "Das hat man underfaren",
+     "pg": "46–47",
+     "lang": "de",
+     "orig": "welcher wol sahe / daß die zwey Pfeiler / welche die Helffte deß Thurns trugen / zu solcher Last nicht starck genug wären / darum er den zehenden Pfeiler auf jeder Seiten mit dem äussersten deß Thurns vermittelst einer denen Pfeilern gleich dicken Maur zu verbinden / sich vorgenommen / und dieses Werck Anno 1494. angefangen / doch daß er zu jeder Neben-Seite einen Durchgang liesse. Man findet deßhalben über dem Durchgang / wann man unter dem Thurn gegen der Mittags-Seiten gehen will / diese Worte an der Maur mit schwartzen Buchstaben gemahlet: Das hat man underfaren in dem Jar da man zalt 1494. Ferner wurde auch zwischen dem neundten und zehenden Pfeiler auf gleiche Weise eine Maur aufgeführet / zu beyden Seiten auch vermittelst eines Spitzbogens ein Durchgang gelassen / damit also auch gegen Morgen der Thurn nicht weichen könnte / und daß er endlich zu beyden Seiten festere Halt habe / hat man von dem zehenden Pfeiler auf jeder Seite eine Maur gegen die Wand der Seiten-Gewölber aufgeführet / doch vermittelst eines geraumen Bogens / auch einen Durchgang gelassen; Die Jahrzahl 1500. so über dem Bogen der Mitternacht-Seite stehet / gibt Anzeige / daß man dieselbe in gedachtem Jahr verfertiget / damit man fast biß 1502. zugebracht / gestalten auch vorgedachter auctor meldet: Man habe mit diesem underfahren in die 8. Jahr zugebracht; Und hierauß kan der Leser nun abnehmen / warum man heut zu Tage nicht mehr zehen Pfeiler im Münster zehle?",
+     "en": "der wohl sah, dass die zwei Pfeiler, die die Hälfte des Turms trugen, für eine solche Last nicht stark genug waren; darum nahm er sich vor, den zehnten Pfeiler auf jeder Seite mit dem äußersten des Turms durch eine Mauer von der Dicke der Pfeiler zu verbinden, und begann dieses Werk im Jahr 1494, doch so, dass er zu jeder Nebenseite einen Durchgang ließ. Deshalb findet man über dem Durchgang, wenn man unter dem Turm nach Süden gehen will, diese Worte mit schwarzen Buchstaben an die Mauer gemalt: ‚Das hat man unterfahren in dem Jahr, da man zählte 1494.‘ Ferner wurde auch zwischen dem neunten und zehnten Pfeiler auf gleiche Weise eine Mauer aufgeführt und zu beiden Seiten durch einen Spitzbogen ein Durchgang gelassen, damit der Turm auch nach Osten nicht weichen könnte; und damit er schließlich zu beiden Seiten festeren Halt habe, hat man vom zehnten Pfeiler auf jeder Seite eine Mauer gegen die Wand der Seitenschiffe aufgeführt, doch durch einen weiten Bogen auch einen Durchgang gelassen. Die Jahreszahl 1500, die über dem Bogen auf der Nordseite steht, zeigt an, dass man diese Mauer in diesem Jahr fertigstellte, womit man fast bis 1502 zubrachte, wie auch der vorgenannte Verfasser meldet: Man habe mit diesem Unterfahren an die acht Jahre zugebracht. Und hieraus kann der Leser nun abnehmen, warum man heutzutage nicht mehr zehn Pfeiler im Münster zählt.",
+     "note": "‚Unterfahren‘ heißt: unter eine Last neues Mauerwerk setzen, um sie abzufangen. Engelberg mauerte die Turmpfeiler mit den benachbarten Langhauspfeilern zusammen; deshalb zählte Frick nicht mehr zehn freie Pfeiler. Die gemalte Inschrift von 1494 und die Jahreszahl 1500 hat Frick an der Mauer gelesen. Acht Jahre Rettungsbau statt Turmbau: Das ist der Preis des Wagnisses, das das Spiel als Statik führt."
+    },
+    {
+     "n": 6,
+     "titel": "Vierhundert Gulden und ein Ruhegeld; die Seitenschiffe werden geteilt",
+     "pg": "47",
+     "lang": "de",
+     "orig": "Es hat sich immittelst gedachter Engelberger so wol mit diesem Bau verdient gemachet / daß man ihme / ausser seinem Lohn / 400. Gulden verehrt / und 50. Gulden jährlich Lebenslang zu zahlen bestimmt. Hierauf wurde noch zu einer Arbeit geschritten / nemlich / da zu beyden Seiten nur ein Gewölbe gewesen / [...] so hat man nun jede Seiten in zwey Gewölber zu theilen fürgenommen / damit auf solche weise diese beyde Seiten dem mittlern hohen Gewölbe mit wenigerer dessen Beschwerung desto fester angeschlossen würden. [...] daß Anno 1502. man angefangen habe / auch die Kirche zu underfahren / und die runden Säulen in denen Seiten-Gewölbern zu bauen / wordurch jedes derselben in 2. Gewölber getheilt worden [...]. Er meldet zu mehrerer Gewißheit / daß sein Vatter und Mutter ihme solches angezeigt / deren Zeugnuß um so so viel gewisser / weil sie solchen Bau mit Augen haben sehen aufführen.",
+     "en": "Inzwischen hatte sich der genannte Engelberger um diesen Bau so verdient gemacht, dass man ihm außer seinem Lohn 400 Gulden schenkte und bestimmte, ihm lebenslang jährlich 50 Gulden zu zahlen. Danach schritt man noch zu einer Arbeit: Da auf beiden Seiten nur ein Gewölbe gewesen war, [...] nahm man sich nun vor, jede Seite in zwei Gewölbe zu teilen, damit auf diese Weise beide Seiten dem mittleren hohen Gewölbe, mit geringerer Belastung desselben, desto fester angeschlossen würden. [...] dass man im Jahr 1502 angefangen habe, auch die Kirche zu unterfahren und die runden Säulen in den Seitenschiffen zu bauen, wodurch jedes davon in zwei Gewölbe geteilt wurde [...]. Er meldet zu größerer Gewissheit, dass sein Vater und seine Mutter ihm das angezeigt hätten, deren Zeugnis umso gewisser sei, weil sie diesen Bau mit eigenen Augen haben aufführen sehen.",
+     "note": "Der Meister, der ging, und der Meister, der kam: Für Böblinger überliefert Frick die Furcht vor dem Rat, für Engelberg ein Ehrengeschenk von 400 Gulden und eine Leibrente von 50 Gulden im Jahr, mehr als die Hälfte von Böblingers ganzem Jahresgehalt von 90 Gulden (Pfleiderer [1]). Die Teilung der Seitenschiffe durch die runden Säulen ist der Grund, warum das Münster heute fünfschiffig ist. Fricks Gewährsmann beruft sich wieder auf seine Eltern als Augenzeugen."
+    }
+   ]
+  },
+  {
+   "id": "pfleiderer",
+   "titel": "Pfleiderer 1907: Ein Zweifel und ein Brief",
+   "zk": "Pfleiderer",
+   "blurb": "Böblingers Vertrag von 1480, die Geschichte vom Steinfall und Pfleiderers Einwand: Böblingers Zeichen trägt die Jahreszahl 1494. Dazu der Brief des Rats an Esslingen vom 5. Oktober 1493, der um fünf Steinmetzen bittet, ‚unserem Kirchenturm zu hilff‘.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Böblinger, der Ölberg und der Vertrag von 1480",
+     "pg": "12–13",
+     "en": "Ebenso hat nun der bedeutende Nachfolger des Moritz, Matthäus Böblinger (1477/80–94) schon von Eßlingen aus, wo er an der Frauenkirche baute, 1474 nach Ulm gearbeitet. Und zwar lieferte er urkundlich den umstehend mitgeteilten Riß des Oelbergs, der bis Anfang dieses Jahrhunderts südlich vom Münster stand und aus dessen Inschrift von Böblingers Hand wir noch weiteres ersehen: „Den Oelberg hat Mathes Böblinger von Eßlingen gen Vlm geordnet vnd hat viel stain gehaven zu denselben Ziten 1474. Darnach über drei jar ward ich bestellt von minen herren von Vlm zu irem Kirchenbawe“ also 1477. — Samstag nach St. Dionysien (Okt.) 1480 erfolgte die lebenslängliche Anstellung. Die wiederum sehr fürsichtigen Bedingungen, die bei seinem wie den andern Verträgen wiederkehren, waren u. a.: Entlaßbarkeit, Haushäbigkeit (d. h. Wohnung an Ort und Stelle), sich keines andern Baus innerhalb oder außerhalb der Stadt ohne Urlaub zu unterwinden, die Visierungen zurückzugeben im Falle des Abgangs, 90 Gulden Jahresgehalt.",
+     "note": "Pfleiderer schreibt 1907 Neuhochdeutsch; sein Text steht hier ohne Übersetzung, seine Quellenzitate wie gedruckt. Böblingers Vertrag von 1480 wiederholt die Bedingungen von 1392 (Ensingen Ulm [2] und [3]): entlassbar, kein anderes Werk ohne Urlaub. Neu ist die Pflicht, ‚die Visierungen zurückzugeben im Falle des Abgangs‘: Die Pläne gehören dem Rat, nicht dem Meister. Die Steinmetzordnung von 1459 band den Meister an seine Visierung (Hütte [5]); der Ulmer Rat behielt sie. Den Riss des Ölbergs zeigt die Tafel."
+    },
+    {
+     "n": 2,
+     "titel": "Die Steine, und ein Zweifel",
+     "pg": "13",
+     "en": "Nach einer Ueberlieferung der Sebast. Fischer’schen Chronik sollen dann an einem Sonntag des Jahres 1492, im Beisein der Mutter des Chronisten, während des Gottesdienstes zwei große Steine aus dem (Turm-)Gewölb polternd herabgestürzt und Böblinger deshalb sofort aus Ulm geflohen sein. Indes befindet sich das Monogramm des Künstlers mit der Jahreszahl 1494 auf dem Kranz des Turmvierecks wie auf dem Originalriß, dem wir später begegnen werden. Und wenn er dann allerdings von diesem Jahr an aus Ulm scheidet, so müssen dafür tieferliegende Ursachen angenommen werden. Sicher ist, daß der Zustand des Turms ein bedenklicher war und den Ulmern Sorge machte, anderseits aber auch ein Zerwürfnis derselben mit Böblinger waltete.",
+     "note": "Pfleiderer liest dieselbe Überlieferung wie Frick ([3] und [4]) und widerspricht ihr mit demselben Befund, den Frick sah und nicht deutete: Böblingers Zeichen mit der Jahreszahl 1494 am Kranz ([2]). Er geht nicht 1492 in panischer Flucht, sondern 1494, und nicht wegen zweier Steine, sondern wegen eines ‚Zerwürfnisses‘ mit dem Rat. Worüber man sich zerwarf, sagt Pfleiderer nicht."
+    },
+    {
+     "n": 3,
+     "titel": "Der Brief an Esslingen, 5. Oktober 1493",
+     "pg": "13",
+     "en": "Denn in einem erhaltenen Brief vom 5. Oktober 1493: „Den ersamen und weisen Burgermaister und Rat der Stadt Eßlingen · unnsern besondern gutten Fründen“, bitten sie diese „uns zu lieb und unserem Kirchenturm zu hilff“ um fünf erprobte Steinmetzen. Der Grund ist: „nachdem dem thürm an unser lieben frowen Pfarrkirchen hie by uns merklich prüch zugestanden sein . . . .“ Ein großes Consilium von Baumeistern aus 28 Orten soll hierauf in Ulm Herbst 1493 gehalten worden sein.",
+     "note": "Das einzige zeitgenössische Zeugnis dieses Moduls, und es steht nur in Pfleiderers Auszug: Der Ulmer Rat schreibt nach Esslingen, wo Böblinger herkam und bald wieder arbeitete, und bittet um fünf erprobte Steinmetzen, weil der Turm ‚merkliche Brüche‘ erlitten habe. Ein Jahr nach den fallenden Steinen bittet die Stadt, die ‚ohne Hilfe und Betteln‘ baute (Grundstein [5]), andere Städte um Hilfe. Die achtundzwanzig Orte gibt Pfleiderer nur als ‚soll‘."
+    },
+    {
+     "n": 4,
+     "titel": "Engelberg, und Böblinger in Esslingen",
+     "pg": "13",
+     "en": "Aus diesen tritt dann Burkhard Engelberg, als der 10. alte Münsterbaumeister und der eigentliche Retter des Turmes und der Kirche auf den Plan, während Böblinger, dessen Ansehen die Geschichte mit dem Steinfall, wenn sie wahr ist, keineswegs geschadet hatte, in Eßlingen die Frauenkirche vollendete (auch von Reutlingen, Memmingen, Gmünd, Urach in Kirchenbausachen vielfach zu Rate gezogen), 1505 dort starb und in der Frauenkirche begraben ward. Burkhard Engelberg von Hornberg im Schwarzwald war ebenfalls ein gewiegter Meister. Er war Baumeister von St. Ulrich und Afra in Augsburg und hatte auch bei der Kilianskirche in Heilbronn, später sogar in Botzen in Südtirol seinen Rat gegeben. Es scheint auch, daß er in Ulm nicht bleibend sich niederließ, wohl aber öfters Wohnung in der Stadt nahm und im übrigen die Arbeiten durch seinen Ballier Lienhard Altlin leitete. Augsburg war seine zweite Heimat, wo er 1512 starb und (in St. Ulrich) begraben liegt. Schon stand der Bau in Ulm stille.",
+     "note": "Die Generationenfolge, wie das Spiel sie braucht: Der eine Meister geht im Zerwürfnis und wird anderswo geehrt, der andere kommt von außen, wohnt nicht in der Stadt und leitet durch seinen Parlier (‚Ballier‘). Böblingers Vertrag verlangte ‚Haushäbigkeit‘, Wohnung am Ort ([1]); Engelberg, der Retter, erfüllte sie nach Pfleiderer nicht. ‚Schon stand der Bau in Ulm stille‘, schreibt Pfleiderer zu Engelbergs Tod 1512; 1518 bestellte der Rat nach ihm noch einen letzten Kirchenmeister, Bernhard Winkler, und 1543 ruhte die Arbeit."
+    }
+   ]
+  }
+ ]
+}

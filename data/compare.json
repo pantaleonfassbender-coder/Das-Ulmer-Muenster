@@ -178,6 +178,52 @@
      ]
     }
    ]
+  },
+  {
+   "id": "steinfall",
+   "titel": "Floh der Meister?",
+   "frage": "Frick 1718 und Pfleiderer 1907 über dieselbe Überlieferung.",
+   "note": "Frick erzählt nach einer Chronik, deren Verfasser sich auf seine Mutter beruft: Steine fallen, die Leute fliehen, der Baumeister geht ‚aus Furcht eines schlechten Traktaments‘. Pfleiderer kennt dieselbe Chronik und hält dagegen, dass Böblingers Zeichen am Kranz die Jahreszahl 1494 trägt; er schied erst dann, aus ‚tieferliegenden Ursachen‘, einem Zerwürfnis mit dem Rat. Frick hatte das Zeichen mit der Jahreszahl selbst gesehen (Frick [2]) und den Schluss nicht gezogen.",
+   "voices": [
+    {
+     "text": "turm1492",
+     "sec": "frick",
+     "n": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "turm1492",
+     "sec": "pfleiderer",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vertraege",
+   "titel": "Wie der Rat seine Meister band",
+   "frage": "Ensingens Vertrag 1392 und Böblingers Vertrag 1480.",
+   "note": "Neunzig Jahre liegen zwischen den beiden Verträgen, und die Bedingungen sind dieselben: Der Rat kann entlassen, der Meister darf kein anderes Werk ohne Urlaub annehmen. 1480 kommen zwei Pflichten hinzu oder werden ausdrücklich: Der Meister muss am Ort wohnen, und wenn er geht, muss er die Visierungen zurückgeben. Die Pläne bleiben in Ulm; der Meister ist ersetzbar.",
+   "voices": [
+    {
+     "text": "ensinger",
+     "sec": "ulm",
+     "n": [
+      2,
+      3
+     ]
+    },
+    {
+     "text": "turm1492",
+     "sec": "pfleiderer",
+     "n": [
+      1
+     ]
+    }
+   ]
   }
  ]
 }

@@ -74,13 +74,26 @@
    "d": "1492",
    "side": "meister",
    "titel": "Die fallenden Steine",
-   "text": "Steine fallen aus dem Gewölbe; der Baumeister Matthäus Böblinger verlässt die Stadt, Gutachter werden geholt. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "An einem Sonntag fallen unter der Predigt zwei Steine aus dem Turmgewölbe; die Leute fliehen aus der Kirche, verletzt wird niemand. Nach der Überlieferung flieht der Baumeister Matthäus Böblinger; Pfleiderer bezweifelt das, denn sein Zeichen trägt die Jahreszahl 1494. Im selben Jahr steigt König Maximilian auf den Turm.",
+   "cite": "#/text/turm1492/frick/3",
+   "citeLabel": "Frick [3]",
+   "plate": "oelberg1474"
   },
   {
-   "d": "um 1500",
+   "d": "5. Oktober 1493",
+   "side": "rat",
+   "titel": "Der Brief an Esslingen",
+   "text": "Der Ulmer Rat bittet die Stadt Esslingen um fünf erprobte Steinmetzen, ‚unserem Kirchenturm zu hilff‘, weil der Turm ‚merkliche Brüche‘ erlitten habe. Danach sollen Baumeister aus achtundzwanzig Orten in Ulm beraten haben.",
+   "cite": "#/text/turm1492/pfleiderer/3",
+   "citeLabel": "Pfleiderer [3]"
+  },
+  {
+   "d": "1494–1502",
    "side": "meister",
    "titel": "Engelbergs Rettung",
-   "text": "Burkhard Engelberg sichert den Bau, unter anderem durch die Teilung der Seitenschiffe. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Burkhard Engelberg aus Augsburg unterfängt den Turm: Mauern verbinden die Turmpfeiler mit dem Langhaus (‚Das hat man underfaren ... 1494‘); ab 1502 werden die Seitenschiffe durch runde Säulen geteilt. Der Rat schenkt ihm 400 Gulden und eine Leibrente.",
+   "cite": "#/text/turm1492/frick/5",
+   "citeLabel": "Frick [5]"
   },
   {
    "d": "1531",

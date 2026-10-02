@@ -39,16 +39,17 @@
    "kurz": "Die Ordnung der Steinmetzen, Regensburg 1459",
    "zk": "Hütte",
    "warum": "Die Ordnung, die sich Meister und Gesellen der Bauhütten am 25. April 1459 in Regensburg gaben, nach Heideloffs Abdruck der Straßburger Fassung (1844), in Fraktur am Seitenbild gelesen, frühneuhochdeutsch mit neuhochdeutscher Übersetzung: Taglohn statt Akkord an den großen Domen, die Nachfolge beim Tod des Meisters, die Bindung an die Visierung, der Boykott gegen den, der einem Meister das Werk abjagt, kein Wissen um Geld, höchstens fünf Lehrlinge, Sittenregeln, die eine Frau nur als Grund zum Ausschluss kennen, eine Kasse für Kranke, fünf Jahre Lehre, kein unehelich Geborener, und Straßburg als oberster Richter über ein Gebiet bis Ulm."
+  },
+  {
+   "id": "turm1492",
+   "datei": "turm1492",
+   "side": "meister",
+   "kurz": "1492: die fallenden Steine",
+   "zk": "Frick",
+   "warum": "Zwei spätere Stimmen, beide in Fraktur am Seitenbild gelesen: Elias Frick 1718 erzählt nach einer Ulmer Chronik, wie 1492 unter der Predigt zwei Steine aus dem Gewölbe fielen, der Baumeister ‚aus Furcht eines schlechten Traktaments‘ ging, Meister aus achtundzwanzig Orten gerufen wurden und Burkhard Engelberger acht Jahre lang den Turm unterfing. Rudolf Pfleiderer 1907 bezweifelt die Flucht, weil Böblingers Zeichen die Jahreszahl 1494 trägt, und zitiert den Brief des Rats an Esslingen vom 5. Oktober 1493, ‚unserem Kirchenturm zu hilff‘."
   }
  ],
  "planned": [
-  {
-   "id": "turm1492",
-   "side": "meister",
-   "kurz": "1492: die fallenden Steine",
-   "warum": "Matthäus Böblinger muss gehen, Gutachter werden geholt, Burkhard Engelberg sichert den Bau. Was wusste der Rat, und wem gab er die Schuld?",
-   "quelle": "F. Pressel, Ulm und sein Münster (1877); Verhandlungen des Vereins für Kunst und Alterthum in Ulm und Oberschwaben."
-  },
   {
    "id": "bildersturm",
    "side": "kirche",
