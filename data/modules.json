@@ -7,16 +7,17 @@
    "kurz": "Die Grundsteinlegung, 30. Juni 1377",
    "zk": "Grundstein",
    "warum": "Felix Fabris Bericht von 1488, am Seitenbild gelesen, Latein mit neuhochdeutscher Übersetzung: warum die Bürger ihre Pfarrkirche in die Stadt holten (Furcht vor Verrat, und die Spenden, die an die Bettelorden gingen), wie sie Häuser, ein Schwesternhaus und den Garten der Franziskaner für den Bauplatz nahmen, wie Bürgermeister Ludwig Krafft den Stein setzte und mit hundert Gulden bedeckte, und Fabris Rückblick: ohne Hilfe und Betteln."
+  },
+  {
+   "id": "ensinger",
+   "datei": "ensinger",
+   "side": "meister",
+   "kurz": "Der Vertrag des Baumeisters: Ulrich von Ensingen, 1391–1402",
+   "zk": "Ensingen",
+   "warum": "Der Ulmer Vertrag vom 17. Juni 1392 vollständig, frühneuhochdeutsch mit neuhochdeutscher Übersetzung: fünf Jahre ohne Kündigung, ein ungarischer Gulden die Woche, Entlassung durch den Rat jederzeit, andere Werke nur mit Erlaubnis der Pfleger. Dazu die Mailänder Dombauhütte, die ihn ruft und mit der er über das große Fenster bricht (1391–1395, Latein), und Straßburg, wo er 1399 Werkmeister wird und 1402 das Recht seiner Steinmetzen gegen die Zunft der Maurer verteidigt. Alles nach Carstanjens Urkundenanhang (1893), am Seitenbild gelesen."
   }
  ],
  "planned": [
-  {
-   "id": "ensinger",
-   "side": "meister",
-   "kurz": "Der Vertrag des Baumeisters: Ulrich von Ensingen, 1392",
-   "warum": "Lohn, Pflichten und Freiheiten des Werkmeisters, sein Turmentwurf und sein Gang nach Straßburg.",
-   "quelle": "A. Carstanjen, Ulrich von Ensingen (München 1893); Ulmisches Urkundenbuch."
-  },
   {
    "id": "buergerkirche",
    "side": "buerger",

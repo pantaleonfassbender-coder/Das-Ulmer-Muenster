@@ -1,6 +1,6 @@
 {
  "lede": "Risse, Ansichten und Bilder des Münsters aus gemeinfreien Drucken; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493). Gemeinfreie Reproduktionen über Wikimedia Commons, für diese Site verkleinert.",
+ "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), nach dem Scan im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
  "plates": [
   {
    "id": "ulma1493",
@@ -8,6 +8,13 @@
    "titel": "‚Ulma‘, 1493",
    "caption": "Ulm von der Donau aus im Holzschnitt der Schedelschen Weltchronik, fünf Jahre nach Fabris Beschreibung: die Mauer, die Brücke mit dem Torturm, die Dächer der Stadt und über ihnen die großen Kirchen. Welche davon das Münster ist, sagt der Holzschnitt nicht; eine genaue Bauaufnahme ist er nicht. Fabri rühmte im selben Jahrzehnt, das Gotteshaus sei ‚längst vollendet‘, der Turm wachse ‚als wolle er in den Himmel wachsen‘ (Grundstein [5]).",
    "source": "Hartmann Schedel, Liber chronicarum (Nürnberg 1493), fol. CXC verso – CXCI recto, Holzschnitt aus der Werkstatt Michael Wolgemuts und Wilhelm Pleydenwurffs; via Wikimedia Commons (gemeinfrei)."
+  },
+  {
+   "id": "ensinger_zeichen",
+   "side": "meister",
+   "titel": "Ulrichs Zeichen",
+   "caption": "Das Meisterzeichen Ulrichs von Ensingen, erhaben auf einem Schild gehauen, ‚ungefähr die Form eines gothischen N‘: oben (Fig. 1 a und b) zweimal an derselben Fiale des südlichen Chorturms in Ulm, das zweite als Spiegelbild, unten (Fig. 2) an der Innenseite der Balustrade über dem Oktogon des Straßburger Münsters. Viermal, sagt Carstanjen, habe sich Ulrich so an seinen Bauten verewigt. Der Meister setzte sein Zeichen sichtbar an den Bau; die Gesellen hieben ihres vertieft in die Steine. Zum Vertrag, der ihn in Ulm band, Ensingen Ulm [1].",
+   "source": "A. W. Fr. Carstanjen, Ulrich von Ensingen. Ein Beitrag zur Geschichte der Gothik in Deutschland (München 1893), S. 13, Fig. 1–2, nach dem Scan im Internet Archive (ulrichvonensinge00cars). Carstanjen starb 1925; gemeinfrei."
   }
  ]
 }

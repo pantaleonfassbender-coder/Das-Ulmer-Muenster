@@ -11,10 +11,29 @@
    "plate": "ulma1493"
   },
   {
-   "d": "1392",
+   "d": "17. Juni 1392",
    "side": "meister",
    "titel": "Ulrich von Ensingen",
-   "text": "Die Stadt stellt Ulrich von Ensingen als Werkmeister an; er plant einen Westturm von nie gesehener Höhe. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Bürgermeister und Rat stellen Meister Ulrich von Ensingen für fünf Jahre als Meister des Werks an Unserer Frauen Kirche an, um einen ungarischen Gulden die Woche. Kündigen darf er nicht; der Rat darf ihn bei offenkundigem Mangel jederzeit entlassen.",
+   "cite": "#/text/ensinger/ulm/1",
+   "citeLabel": "Ensingen Ulm [1]",
+   "plate": "ensinger_zeichen"
+  },
+  {
+   "d": "25. März 1395",
+   "side": "meister",
+   "titel": "Ensingen in Mailand",
+   "text": "Die Dombauhütte von Mailand, die den Ulmer Meister geholt hat, fragt ihn, ob er das große Fenster nach den begonnenen Maßen bauen wolle. Er will Höhe und Form ändern; die Hütte will nichts abbrechen, damit die Andacht der Bürger nicht verloren gehe. Im April geht er heim.",
+   "cite": "#/text/ensinger/mailand/3",
+   "citeLabel": "Ensingen Mailand [3]"
+  },
+  {
+   "d": "1399–1402",
+   "side": "meister",
+   "titel": "Ensingen in Straßburg",
+   "text": "Straßburg macht Ulrich zum Werkmeister an seinem Münster. 1402 entscheidet der Rat seinen Streit mit den Maurern: Die Steinmetzen der Hütte dienen in keiner Zunft und halten keine Nachtwache, ziehen aber mit der Stadt zu Felde.",
+   "cite": "#/text/ensinger/strassburg/2",
+   "citeLabel": "Ensingen Straßburg [2]"
   },
   {
    "d": "1405",

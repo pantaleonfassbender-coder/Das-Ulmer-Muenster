@@ -1,4 +1,50 @@
 {
  "lede": "Zwei Stimmen über dieselbe Sache, nebeneinander gelesen.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "lohn",
+   "titel": "Was ein Meister kostet",
+   "frage": "Ulm 1392 und Mailand 1394: zwei Städte, ein Meister, zwei Verträge.",
+   "note": "Ulm zahlt einen ungarischen Gulden die Woche, Zulagen zu den Fronfasten und Geld für Holz und Wohnung, und bindet den Meister fünf Jahre, während es ihn selbst jederzeit entlassen kann. Mailand zahlt Monat für Monat, vom Tag der Abreise an, solange es ihn braucht. Die beiden Summen lassen sich nicht einfach vergleichen: Es sind verschiedene Münzen und verschiedene Zeiträume, und die Mailänder Akten nennen selbst einmal 24 und einmal 20 Gulden im Monat.",
+   "voices": [
+    {
+     "text": "ensinger",
+     "sec": "ulm",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "ensinger",
+     "sec": "mailand",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nebenwerk",
+   "titel": "Darf der Meister anderswo bauen?",
+   "frage": "Ulm 1392 und Straßburg 1402: wem die Zeit des Werkmeisters gehört.",
+   "note": "Ulm verbietet seinem Meister jedes andere Werk ohne Erlaubnis der Pfleger und zahlt ihm, solange er auswärts ist, keinen Wochenlohn; das Werk soll trotzdem versorgt sein. Straßburg erlaubt seinem Werkmeister, mit seinen Gesellen für Stifte und Klöster der Stadt zu arbeiten und Grabmäler und Brunnenbecken zu hauen, ‚weil es von alters so herkommen ist‘.",
+   "voices": [
+    {
+     "text": "ensinger",
+     "sec": "ulm",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "ensinger",
+     "sec": "strassburg",
+     "n": [
+      4
+     ]
+    }
+   ]
+  }
+ ]
 }
