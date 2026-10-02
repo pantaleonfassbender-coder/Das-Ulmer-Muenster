@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>Was tat die Reformation mit der Kirche?</h3>
       <p>1531 beschloss die Stadt die neue Lehre; die Altäre und Bilder, die Bürger gestiftet hatten, wurden aus dem Münster genommen. Die Kirche blieb, ihr Inhalt nicht, und der Bau hörte bald danach auf.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
-      <p>Ein Begleitspiel, <a href="https://ohne-hilfe-und-betteln.netlify.app/"><em>Ohne Hilfe und Betteln</em></a>, ist in Vorbereitung: Man spielt den Münsterbaumeister über Generationen, von der Grundsteinlegung 1377 bis zum Bildersturm 1531, mit einem Epilog bis 1890. Seine Karten werden auf die Stellen verweisen, die hier abgedruckt sind.</p></div>
+      <p>Das Begleitspiel <a href="https://ohne-hilfe-und-betteln.netlify.app/"><em>Ohne Hilfe und Betteln</em></a> ist spielbar (Prototyp 0), hier oder <a href="https://leofassb.itch.io/ohne-hilfe-und-betteln">auf itch.io</a>, mit einem Strategieguide: Man spielt den Münsterbaumeister über Generationen, von der Grundsteinlegung 1377 bis zur Reformation 1531, mit einem Epilog bis 1890. Unfälle ja, Einsturz nein. Jede Karte verweist auf eine Stelle, die hier abgedruckt ist.</p></div>
   </div>`;
 }
 
