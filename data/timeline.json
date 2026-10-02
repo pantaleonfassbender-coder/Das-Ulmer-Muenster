@@ -96,10 +96,13 @@
    "citeLabel": "Frick [5]"
   },
   {
-   "d": "1531",
+   "d": "21. Juni 1531",
    "side": "kirche",
    "titel": "Der Bildersturm",
-   "text": "Ulm nimmt die Reformation an; Altäre und Bilder werden aus dem Münster entfernt. (Darstellung nach neuerer Literatur; Modul geplant.)"
+   "text": "Ulm ist am 3. November 1530 zur Reformation übergetreten. Auf Rat der Reformatoren werden die über sechzig Messaltäre, die Heiligenbilder und die Orgeln aus dem Münster entfernt; die Stifter sollen ihre Stiftungen heimholen, am 21. Juni wird zerstört, was übrig ist. Ein Holztisch ersetzt den Kreuzaltar.",
+   "cite": "#/text/bildersturm/pfleiderer/2",
+   "citeLabel": "Pfleiderer 1531 [2]",
+   "plate": "frick_innen1718"
   },
   {
    "d": "1543",
@@ -107,6 +110,14 @@
    "titel": "Der Bau ruht",
    "text": "Die Arbeit am Münster wird eingestellt; der Turm bleibt unvollendet. (Darstellung nach neuerer Literatur; Modul geplant.)",
    "plate": "falger1829"
+  },
+  {
+   "d": "15. August 1548",
+   "side": "kirche",
+   "titel": "Das Interim",
+   "text": "Karl V. lässt im Münster wieder die Messe lesen; für seinen Besuch werden in zwei Tagen zwei Altäre gebaut. Bei seinem Abzug nimmt er die abgesetzten evangelischen Prediger gefangen mit. Weihnachten 1552 wird die Messe wieder abgeschafft.",
+   "cite": "#/text/bildersturm/pfleiderer/4",
+   "citeLabel": "Pfleiderer 1531 [4]"
   },
   {
    "d": "1844",

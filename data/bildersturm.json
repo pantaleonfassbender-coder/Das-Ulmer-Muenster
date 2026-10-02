@@ -1,0 +1,102 @@
+{
+ "id": "bildersturm",
+ "titel": "Die Reformation im Münster, 1531–1552",
+ "autor": "Elias Frick (1718); Rudolf Pfleiderer (1907)",
+ "jahr": "1531–1552",
+ "sprache": "de",
+ "orig_sprache": "de",
+ "pg_label": "S.",
+ "quelle": "Elias Frick, Templum Parochiale Ulmensium = Ulmisches Münster (Ulm 1718), § XVII, S. 49–50 (Internet Archive: 10002717bsb); Rudolf Pfleiderer, Münsterbuch (Ulm 1907), S. 19–20 (Internet Archive: Muensterbuch). Übertragung Fricks: eigene Arbeit.",
+ "hinweis": "Wie 1492 liegt auch für 1531 in diesem Apparat keine zeitgenössische Quelle im Volltext vor: Die gedruckte Ulmer Kirchenordnung von 1531 und die Ratsprotokolle sind hier nicht erreichbar, Richters Kirchenordnungen (1846) geben die Ordnung nur im Auszug. Die Ereignisse stehen deshalb in zwei späteren Stimmen, beide in Fraktur am Seitenbild gelesen: Elias Frick, Lutheraner, 1718, und Rudolf Pfleiderer 1907, der die Ratsprotokolle zitiert und den Rat in Schutz nimmt. Fricks Text steht mit einer Übertragung ins heutige Deutsch, Pfleiderers ohne. Die Übertragung ist eigene Arbeit (CC0).",
+ "sections": [
+  {
+   "id": "frick",
+   "titel": "Frick 1718: Altäre, Bilder, Orgeln",
+   "zk": "Frick 1531",
+   "blurb": "Auf Rat der oberdeutschen Reformatoren werden 1531 alle Altäre hinausgetan, die große Orgel mit Pferden heruntergerissen, Bilder entfernt oder verstümmelt; ein Holztisch tritt an die Stelle des Kreuzaltars. 1548 lässt der Kaiser in zwei Tagen zwei neue Altäre bauen.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Die Schweizer Lehrer raten",
+     "pg": "49",
+     "lang": "de",
+     "orig": "Bald nach letzt-bemeldtem Jahr / nemlich Anno 1531. ward dieses Münster eines theils seiner Zierde beraubt / als in welchem die zu der vorgenommenen Reformation beschriebene zwey Schweitzerische Lehrer / Jo. Oecolampadius und Ambrosius Blaurerus, welche man nebst Martino Bucero, auf Angeben deß damaligen Predigers Conrad Samen (der es in der Lehre mit denen Schweitzern hielte) hieher beruffen / alle Altäre / Bilder / Orglen außzuschaffen gerathen.",
+     "en": "Bald nach dem zuletzt genannten Jahr, nämlich 1531, wurde dieses Münster zum Teil seines Schmucks beraubt, da die zwei Schweizer Lehrer, die man zur vorgenommenen Reformation herbeigerufen hatte, Johannes Oekolampad und Ambrosius Blarer, die man zusammen mit Martin Bucer auf Betreiben des damaligen Predigers Konrad Sam (der es in der Lehre mit den Schweizern hielt) hierher berufen hatte, rieten, alle Altäre, Bilder und Orgeln hinauszuschaffen.",
+     "note": "Frick, Lutheraner, schreibt 1718, nachdem Ulm sich 1536 der Lehre Luthers angeschlossen hatte ([4]); die ‚Schweizer‘ und ihr Prediger Konrad Sam sind für ihn die Urheber. Blarer stammte aus Konstanz, Oekolampad wirkte in Basel, Bucer in Straßburg: Oberdeutsche Reformatoren, die Bilder im Gottesdienst ablehnten. Die neunte der achtzehn Ulmer Glaubensartikel von 1531 lautet nach Richters Auszug (1846): ‚Bilder sind in den Kirchen nicht zu dulden.‘"
+    },
+    {
+     "n": 2,
+     "titel": "Die große Orgel und die Pferde",
+     "pg": "49",
+     "lang": "de",
+     "orig": "Weßhalben man in besagtem Jahr alle Altäre auß der Kirchen miteinander wegthat: die beyde Orglen wurden abgehoben und hinauß geschafft / als es aber schwer hergehen wolte / die grosse Orgel mit allem herunter zu bringen / bunde man Sailer und Ketten darum / spannete sodann Pferdte an diese / und risse vermittelst derselben mit gröster Gewalt alles herunter:",
+     "en": "Deshalb tat man in diesem Jahr alle Altäre miteinander aus der Kirche weg; die beiden Orgeln wurden abgebaut und hinausgeschafft, und als es schwer gehen wollte, die große Orgel mit allem herunterzubringen, band man Seile und Ketten darum, spannte dann Pferde daran und riss mit ihrer Hilfe mit größter Gewalt alles herunter.",
+     "note": "Ein Bild, das sich einprägt: Pferde im Kirchenschiff, an Ketten, die die Orgel herunterreißen. Frick erzählt es ohne Entschuldigung und ohne Empörung. Pfleiderer sagt dasselbe anders: Die Orgeln ‚konnten nicht mehr, wie der Rat wünschte, entfernt werden und wurden zerstört‘ (Pfleiderer 1531 [3]). Fabri hatte 1488 von einer Kirche gesprochen, die man ‚ohne Hilfe und Betteln‘ gebaut habe; die Orgel war Teil dieses Baus."
+    },
+    {
+     "n": 3,
+     "titel": "Was hinausgetan und was verstümmelt wurde",
+     "pg": "49",
+     "lang": "de",
+     "orig": "alle Heiligen-Bilder an Säulen und Wänden / dem Cantzel-Deckel und der Cantzel selbsten / um den Tauff-Stein und zwey vom Sacrament-Häußlein / und die oberste im Chor wurden ebenfalls von ihnen hinweg und zur Kirche hinauß gethan; (dahero man hernach die Cantzel mit Tuch behänget / statt dessen Anno 1665. eine Christliche Jungfrau sie mit dem noch vorhandenen viol blauen mit güldenen Frantzen besetzten Sammet umgeben lassen; und im nechst-vergangenen Jubel-Jahr hat sie einen neuen Ornat von Carmesin-rothen Sammet mit güldenen Borten und Frantzen bekommen:) theils die man stehen ließ / als die Bilder am Tauffstein / das Bild St. Sebastians unten an dem Sacrament-Häußlein und die Bilder an dem Chor-Gestül wurden übel zerstimmelt / (welche letztere aber durch eines geschickten Bildhauers Hand An. 1667. repariret worden) ein gleiches wiederfuhr denen Bildern an denen Portalen / das grosse Portal unter dem Thurn außgenommen.",
+     "en": "Alle Heiligenbilder an Säulen und Wänden, am Kanzeldeckel und an der Kanzel selbst, um den Taufstein, zwei vom Sakramentshaus und die obersten im Chor wurden ebenfalls von ihnen weggenommen und aus der Kirche geschafft (weshalb man die Kanzel danach mit Tuch behängte; stattdessen ließ sie 1665 eine christliche Jungfrau mit dem noch vorhandenen violettblauen, mit goldenen Fransen besetzten Samt umgeben, und im letzten Jubeljahr hat sie einen neuen Schmuck aus karmesinrotem Samt mit goldenen Borten und Fransen bekommen); andere, die man stehen ließ, wie die Bilder am Taufstein, das Bild des heiligen Sebastian unten am Sakramentshaus und die Bilder am Chorgestühl, wurden übel verstümmelt (diese letzteren aber 1667 durch die Hand eines geschickten Bildhauers wieder ausgebessert); das Gleiche widerfuhr den Bildern an den Portalen, ausgenommen das große Portal unter dem Turm.",
+     "note": "Frick unterscheidet, was hinausgetragen, und was an Ort und Stelle ‚übel verstümmelt‘ wurde; das Chorgestühl und das Sakramentshaus blieben stehen, nach Pfleiderer auf ausdrücklichen Befehl des Rats (Pfleiderer 1531 [2]). Was Frick 1718 ‚repariert‘ nennt, ist ein Jahrhundert spätere Reparatur an Bildern, die man 1531 beschädigt hatte. Die Reliefs der Kanzel von 1499 aus Engelbergs Werkstatt sind nach Pfleiderer 1531 ‚ausgeschlagen‘ worden. Das ‚nechst-vergangene Jubel-Jahr‘ ist wohl das Reformationsjubiläum 1717."
+    },
+    {
+     "n": 4,
+     "titel": "Ein Holztisch statt des Altars",
+     "pg": "49–50",
+     "lang": "de",
+     "orig": "Hingegen ward ein höltzerner Tisch an den Ort / wo jetzo der Altar stehet auf dem man das H. Abendmal außspendet / gesetzt / von deme man die Communicanten speisete: Ob auch gleich hernach An. 1536. die Ulmische Kirche mit dem seel. Luthero sich der reinen Lehre halber vereiniget / hingegen die Schweitzerische Irrthümer / wie in anderen / also auch im puncten vom H. Abendmahl fahren lassen / so blieb doch der gedachte höltzerne Tisch stehen / indem der Sache selbst der Ort nichts nimmt noch gibt / es sey ein höltzerner oder steinerner Altar / werde Tisch oder Altar genennt / wann nur die Lehre rein ist / und kein Anstoß oder Aergernuß darauß kommt:",
+     "en": "Dagegen wurde ein hölzerner Tisch an den Ort gesetzt, wo jetzt der Altar steht, an dem man das heilige Abendmahl austeilt; von ihm aus speiste man die Kommunikanten. Und obwohl sich danach im Jahr 1536 die Ulmer Kirche mit dem seligen Luther um der reinen Lehre willen vereinigte und dagegen die Schweizer Irrtümer, wie in anderem, so auch im Punkt des heiligen Abendmahls fahren ließ, so blieb doch der genannte hölzerne Tisch stehen, weil der Ort der Sache selbst nichts nimmt noch gibt, ob es ein hölzerner oder steinerner Altar sei, ob man ihn Tisch oder Altar nennt, wenn nur die Lehre rein ist und kein Anstoß oder Ärgernis daraus kommt.",
+     "note": "Der Holztisch ist das Bild der Reformation im Münster: An die Stelle des hohen Kreuzaltars tritt ein Tisch, an dem die Gemeinde das Abendmahl ‚unter beiderlei Gestalt‘ empfängt, zum ersten Mal am 16. Juli 1531 (Pfleiderer 1531 [1]). 1536 nahm Ulm die Wittenberger Konkordie an; Frick nennt das die Vereinigung ‚mit dem seligen Luther‘ und die früheren Ulmer Lehren ‚Schweizer Irrtümer‘."
+    },
+    {
+     "n": 5,
+     "titel": "1548: der Kaiser und zwei neue Altäre",
+     "pg": "50",
+     "lang": "de",
+     "orig": "doch ward in zwölff Jahren darauf auch hierinnen eine Aenderung getroffen / und zwar mit dieser Gelegenheit. Es kam An. 1548. das sogenandte Interim auf / welches der grosse Kayser Carolus V. allen Ständen Augspurgischer Confession anzunehmen befohlen / und es also auch in Ulm eingeführet wissen wolte / dahero / ob gleich Kayserl. Majestät An. 1547. in dero damaligen Allhierseyn / das Münster nicht besucht / sondern in der Prediger Kirchen die Exequien für die zur selben Zeit verstorbenen Gemahlin Königs Ferdinandi in dero allerhöchsten Gegenwart halten lassen / so mußte doch An. 1548. das Interim nicht allein von der Cantzel offentlich publicirt werden / sondern es kamen auch Ihro Kayserl. Majestät in diesem Jahr selbst wiederum hier an / und wolte in höchster Persohn im Münster-Gottesdienst halten: deßhalben ward vor dero Ankunfft auf ergangenen Befehl den 1. Aug. der Anfang gemacht / mit Zuführung der Steine zu zweyen neuen Altären im Münster / und Tags darauf gieng der Bau an / da man den einen Altar zu oberst im Chor gebauet / dessen Wand allein mit schwartzem Samet behengt / und daran ein höltzern Crucifix ist: hiernächst thät man gedachten höltzernen Tisch weg / und bauete an dessen Stelle den anderen Altar / dessen Wand ohne Zweifel von einem anderen vorhin beyseit gethanen Altar genommen ist / wie dann an der Tafel / welche die Haltung deß ersten Abendmahls fürstellet / mit Unterschrifft der Worten Pauli: Der Mensch prüfe sich selbst ꝛc. auß 1. Cor. XI. 28. 29. das Jahr 1515. eingeschnitten ist.",
+     "en": "Doch wurde zwölf Jahre danach auch hierin eine Änderung getroffen, und zwar bei folgender Gelegenheit: Im Jahr 1548 kam das sogenannte Interim auf, das der große Kaiser Karl V. allen Ständen Augsburgischen Bekenntnisses anzunehmen befahl und auch in Ulm eingeführt wissen wollte. Obwohl Seine Kaiserliche Majestät bei ihrem damaligen Aufenthalt 1547 das Münster nicht besucht, sondern in der Predigerkirche die Exequien für die zu dieser Zeit verstorbene Gemahlin König Ferdinands in allerhöchster Gegenwart hatte halten lassen, musste doch 1548 das Interim nicht nur von der Kanzel öffentlich verkündet werden, sondern Seine Kaiserliche Majestät kam in diesem Jahr auch selbst wieder hierher und wollte in höchster Person im Münster Gottesdienst halten. Deshalb wurde vor ihrer Ankunft auf ergangenen Befehl am 1. August damit begonnen, Steine zu zwei neuen Altären im Münster herbeizuführen, und tags darauf begann der Bau: Den einen Altar baute man zuoberst im Chor, seine Wand ist nur mit schwarzem Samt behängt und ein hölzernes Kruzifix daran; danach nahm man den genannten hölzernen Tisch weg und baute an seiner Stelle den anderen Altar, dessen Wand ohne Zweifel von einem anderen, früher beiseitegetanen Altar genommen ist, wie denn an der Tafel, die die Feier des ersten Abendmahls darstellt, mit der Unterschrift der Worte des Paulus ‚Der Mensch prüfe sich selbst usw.‘ aus 1. Korinther 11,28–29, das Jahr 1515 eingeschnitten ist.",
+     "note": "Das Interim von 1548 war die kaiserliche Übergangsordnung nach dem Sieg Karls V. über die protestantischen Fürsten im Schmalkaldischen Krieg; es stellte die Messe in den protestantischen Reichsstädten vorübergehend wieder her. In zwei Tagen wurden zwei Altäre gebaut, einer davon aus einer Altarwand von 1515, die man 1531 ‚beiseitegetan‘, also aufbewahrt hatte. Wie Karl V. mit den Ulmer Predigern verfuhr, sagt Frick nicht; Pfleiderer sagt es (Pfleiderer 1531 [4])."
+    }
+   ]
+  },
+  {
+   "id": "pfleiderer",
+   "titel": "Pfleiderer 1907: Der Rat und der ‚Pöbel‘",
+   "zk": "Pfleiderer 1531",
+   "blurb": "Ulm tritt am 3. November 1530 über; am 21. Juni 1531 werden über sechzig Messaltäre beseitigt. Der Rat ruft die Stifter auf, ihre Stiftungen heimzuholen, und Pfleiderer schiebt die Zerstörung dem ‚Pöbel‘ zu. 1548 kommt der Kaiser mit der Messe und nimmt die Prediger gefangen mit; 1552 wird die Messe ‚für immer‘ abgeschafft.",
+   "units": [
+    {
+     "n": 1,
+     "titel": "Ulm tritt über",
+     "pg": "19",
+     "en": "Das Münster von 1529–1844. Kurz nach Einstellung des Baus trat Ulm am 3. November 1530 zur Sache der Reformation über; am 16. Juli 1531 ward das erste Abendmahl unter beiderlei Gestalt im Münster ausgeteilt. Unter dem Einfluß des schweizerisch gesinnten Predigers Konrad Sam und des auf seinen Antrag berufenen Oecolampadius, nebst Blaurer und Bucer wurde das Münster mit Beseitigung der über 60 Meßaltäre, der Heiligenstatuen ꝛc. ꝛc. am 21. Juni dieses Jahres, manchen künstlerischen Schmuckes ganz beraubt. Daher findet man in der Umgegend Ulms, in Wippingen, Scharenstetten und anderen Orten köstliche Altargemälde, welche ursprünglich dem Münster gehörten.",
+     "note": "Pfleiderer setzt die Einstellung des Baus auf 1529, also vor die Reformation (die Zeitleiste folgt mit 1543 der neueren Literatur); der Bildersturm hat den Turm nicht aufgehalten, der stand schon. ‚Über 60 Meßaltäre‘: Fabri zählte 1488 einundfünfzig (Vorzüge [3]). Dass Altargemälde des Münsters in Dorfkirchen der Umgebung erhalten sind, heißt: Nicht alles wurde zerstört, manches wurde weggegeben oder von den Stifterfamilien mitgenommen."
+    },
+    {
+     "n": 2,
+     "titel": "Der Rat, die Eigentümer und der ‚Pöbel‘",
+     "pg": "19–20",
+     "en": "Der Rat war einverstanden, hat aber die möglichsten Vorsichtsmaßregeln getroffen — wie die Ratsprotokolle ausweisen —, um Unfug und Vernichtung zu verhüten. Es wurden bestimmte Aufsichtspersonen aufgestellt schon am 14. März; es wurden die vasa sacra ꝛc. ꝛc. eben damals in Sicherheit gebracht (also ist das Münster derselben nicht durch den Bildersturm verlustig gegangen!); es wurden unterm 14./19. Juni die Eigentümer aufgefordert — und wiederholt noch am 21. Juni, ihre Stiftungen ꝛc. nach Hause zu nehmen, was etliche sofort taten, andere noch mit ihren Angehörigen besprechen und vereinbaren wollten: da brach der Pöbel eben am 21. herein und zerstörte, was er erreichen konnte. Es ist also dieser bedauerliche Vorgang nicht dem Rat, nicht der evangelischen Kirche, wie gerne geschieht, auf die Rechnung zu schreiben, sondern der ganzen Unwissenheit und fanatischen Blindheit eines bisher katholischen, katholisch erzogenen Volkes. Ausdrücklich wurde das Hauptportal und das Chorgestühl unberührt zu lassen befohlen, („die bild an dem Gestühl im Chor sollen bleiben“) und das geschah auch; ebenso das Sakramentshäuschen!",
+     "note": "Pfleiderer stützt sich auf die Ratsprotokolle, die dieser Apparat nicht selbst gelesen hat. Was er berichtet, ist wichtig: Die Stifterfamilien wurden aufgefordert, ‚ihre Stiftungen nach Hause zu nehmen‘; die Altäre der Bürger (Vorzüge [3]) gingen an die Bürger zurück. Sein Urteil aber ist eine Verteidigung: Die Zerstörung schiebt er dem ‚Pöbel‘ und der ‚fanatischen Blindheit eines bisher katholischen Volkes‘ zu, nicht dem Rat und nicht der evangelischen Kirche. Der Rat hatte die Entfernung beschlossen und die Prediger gerufen, die sie verlangten (Frick 1531 [1]); wer am 21. Juni Bilder zerschlug, waren Ulmer, deren Stadt eben evangelisch geworden war. Die Gewalt war die der eigenen Seite, auch wenn der Rat sie lenken wollte."
+    },
+    {
+     "n": 3,
+     "titel": "Die Orgeln",
+     "pg": "20",
+     "en": "Die beiden Orgeln im Chor und auf der Nordseite konnten nicht mehr, wie der Rat wünschte, entfernt werden und wurden zerstört; dafür soll 1550 eine Interimsorgel aufgestellt worden sein und 1576–78 wurde diese durch ein neues großes Orgelwerk (von Kaspar Sturm, bayerischem Orgelmacher aus München) ersetzt, welches von dem blinden Orgelmacher Konr. Schott aus Stuttgart und Andr. Schneider aus Schlesien 1595–99 verbessert und „auf 3000 Pfeifen“ gebracht wurde. Die Alten rühmen es als ein „herrlich Werk“.",
+     "note": "Pfleiderers ‚konnten nicht mehr entfernt werden und wurden zerstört‘ und Fricks Pferde an Ketten (Frick 1531 [2]) beschreiben dasselbe. Die Musik kehrte zurück: Nach zwei Jahrzehnten ohne Orgel stand 1550 wieder eine im Münster, und das neue Werk von 1576 wurde ein Stolz der Stadt."
+    },
+    {
+     "n": 4,
+     "titel": "Das Interim: Messe, Gefangene, Ende",
+     "pg": "20",
+     "en": "1542–52. Das Interim hatte auch für unser Gotteshaus die Folge einer vorübergehenden Rekatholisierung durch Karl V., der am 15. August 1548, Mariä Himmelfahrt, das Münster besuchte, zur erneuten Messe, celebriert durch den Bischof von Arras, und bei seinem Abzug am 20. die abgesetzten protestant. Geistlichen nach Kirchheim u. T. mitnahm und dort gefangen setzte. Aus Anlaß des Kaiserbesuchs wurde rasch im Chor wieder ein einfacher Altar, mit schwarzem Samt bedeckt, aufgestellt. Zugleich ward der hölzerne Tisch entfernt, welcher seit der Reformation an der Stelle des alten hohen Kreuzaltars unter dem Triumphbogen als Abendmahlsstätte gedient hatte, und der jetzige Kreuzaltar, den wir an seiner Stelle (Abschn. IV am Schluß) beschreiben als „Seelenaltar“ (hinter dem Syrlinschen Dreistuhl) eingesetzt. An Weihnachten 1552 wurde die Messe wieder abgeschafft, für immer.",
+     "note": "Die Gewalt der anderen Seite: Der Kaiser ließ die Messe wieder lesen und nahm die abgesetzten evangelischen Prediger als Gefangene mit nach Kirchheim unter Teck. Der Bischof von Arras war Antoine Perrenot de Granvelle, Karls Ratgeber. Vier Jahre später, Weihnachten 1552, wurde die Messe im Münster ‚für immer‘ abgeschafft. Die Altäre von 1548 blieben stehen; der Kreuzaltar steht nach Pfleiderer noch 1907 im Münster."
+    }
+   ]
+  }
+ ]
+}

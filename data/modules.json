@@ -47,16 +47,17 @@
    "kurz": "1492: die fallenden Steine",
    "zk": "Frick",
    "warum": "Zwei spätere Stimmen, beide in Fraktur am Seitenbild gelesen: Elias Frick 1718 erzählt nach einer Ulmer Chronik, wie 1492 unter der Predigt zwei Steine aus dem Gewölbe fielen, der Baumeister ‚aus Furcht eines schlechten Traktaments‘ ging, Meister aus achtundzwanzig Orten gerufen wurden und Burkhard Engelberger acht Jahre lang den Turm unterfing. Rudolf Pfleiderer 1907 bezweifelt die Flucht, weil Böblingers Zeichen die Jahreszahl 1494 trägt, und zitiert den Brief des Rats an Esslingen vom 5. Oktober 1493, ‚unserem Kirchenturm zu hilff‘."
+  },
+  {
+   "id": "bildersturm",
+   "datei": "bildersturm",
+   "side": "kirche",
+   "kurz": "Die Reformation im Münster, 1531–1552",
+   "zk": "Frick 1531",
+   "warum": "Zwei spätere Stimmen, in Fraktur am Seitenbild gelesen: Elias Frick 1718 erzählt, wie auf Rat der oberdeutschen Reformatoren 1531 alle Altäre hinausgetan, die große Orgel mit Pferden heruntergerissen und Bilder verstümmelt wurden, ein Holztisch an die Stelle des Altars trat und 1548 für den Kaiser in zwei Tagen zwei Altäre gebaut wurden. Rudolf Pfleiderer 1907 zitiert die Ratsprotokolle: Die Stifter sollten ihre Stiftungen heimholen, am 21. Juni brach ‚der Pöbel‘ herein. Er nimmt den Rat und die evangelische Kirche in Schutz; der Apparat sagt, warum das nicht trägt. Dazu der Kaiser 1548, der die Prediger gefangen mitnahm."
   }
  ],
  "planned": [
-  {
-   "id": "bildersturm",
-   "side": "kirche",
-   "kurz": "Die Reformation im Münster, 1531",
-   "warum": "Die Stadt nimmt die neue Lehre an; Altäre und Bilder werden aus der Kirche entfernt. Die Bauarbeit ruht bald danach.",
-   "quelle": "F. Pressel, Ulm und sein Münster (1877) und die Ulmer Reformationsgeschichte des 19. Jahrhunderts."
-  },
   {
    "id": "vollendung",
    "side": "nachwelt",

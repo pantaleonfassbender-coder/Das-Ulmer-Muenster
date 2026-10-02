@@ -224,6 +224,52 @@
      ]
     }
    ]
+  },
+  {
+   "id": "altaere",
+   "titel": "Die Altäre der Bürger",
+   "frage": "Fabri 1488 und Pfleiderer 1907: wem die Altäre gehörten.",
+   "note": "Fabri rühmt einundfünfzig Altäre, gestiftet nicht von Fürsten, sondern von Ulmer Bürgern, die sie auch vergaben. 1531 ruft der Rat nach Pfleiderer eben diese Stifter auf, ‚ihre Stiftungen nach Hause zu nehmen‘; etliche tun es sofort, andere zögern, und am 21. Juni wird zerstört, was noch steht. Die Bürger, die die Altäre gestiftet hatten, holten sie auch wieder heraus.",
+   "voices": [
+    {
+     "text": "fabri1488",
+     "sec": "vorzuege",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "bildersturm",
+     "sec": "pfleiderer",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "orgel",
+   "titel": "Wer riss die Orgel herunter?",
+   "frage": "Frick 1718 und Pfleiderer 1907 über denselben Tag.",
+   "note": "Frick, Lutheraner, erzählt ohne Umschweife: Die Lehrer rieten, alles hinauszuschaffen, man spannte Pferde an Ketten und riss die große Orgel ‚mit gröster Gewalt‘ herunter. Pfleiderer, der die Ratsprotokolle kennt, verteilt die Verantwortung anders: Der Rat wollte ordentlich entfernen, die Orgeln ‚konnten nicht mehr, wie der Rat wünschte, entfernt werden‘, und an der Zerstörung sei die ‚fanatische Blindheit eines bisher katholischen Volkes‘ schuld. Der ältere Bericht entschuldigt weniger.",
+   "voices": [
+    {
+     "text": "bildersturm",
+     "sec": "frick",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "bildersturm",
+     "sec": "pfleiderer",
+     "n": [
+      2,
+      3
+     ]
+    }
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "lede": "Risse, Ansichten und Bilder des Münsters aus gemeinfreien Drucken; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), der Planriss des Westturms (Ende 15. Jahrhundert, Ulmer Museum), Matthäus Merians Münsterplatz (1643) und Anton Falgers Westansicht (1829), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), Roriczers Fialen aus C. A. Heideloff, Die Bauhütte des Mittelalters (1844), und Böblingers Ölberg aus R. Pfleiderer, Münsterbuch (1907), nach den Scans im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
+ "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), der Planriss des Westturms (Ende 15. Jahrhundert, Ulmer Museum), Matthäus Merians Münsterplatz (1643) und Anton Falgers Westansicht (1829), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), Roriczers Fialen aus C. A. Heideloff, Die Bauhütte des Mittelalters (1844), Böblingers Ölberg aus R. Pfleiderer, Münsterbuch (1907), und den Innenraum aus E. Frick, Templum Parochiale Ulmensium (1718), nach den Scans im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
  "plates": [
   {
    "id": "ulma1493",
@@ -50,6 +50,13 @@
    "titel": "Böblingers Ölberg",
    "caption": "Der Riss des Ölbergs, den Matthäus Böblinger 1474 von Esslingen aus für Ulm entwarf: ein durchbrochenes Gehäuse aus Fialen und Wimpergen über der Szene im Garten Gethsemane, Christus kniend, die schlafenden Jünger davor. Nach der Inschrift von Böblingers Hand hat er ‚viel stain gehaven‘ dazu; drei Jahre später stellte ihn der Rat am Münster an (Pfleiderer [1]). Der Ölberg stand südlich vom Münster bis Anfang des 20. Jahrhunderts. Achtzehn Jahre nach dieser Zeichnung fielen die Steine, und der Meister schied aus Ulm.",
    "source": "Matthäus Böblinger, Riss des Ölbergs (1474), nach der Wiedergabe in Rudolf Pfleiderer, Münsterbuch. Das Ulmer Münster in Vergangenheit und Gegenwart (Ulm 1907), Tafel bei S. 12–13; Internet Archive Muensterbuch (gemeinfrei)."
+  },
+  {
+   "id": "frick_innen1718",
+   "side": "kirche",
+   "titel": "Das leere Münster, 1718",
+   "caption": "‚Perspectivische Vorstellung der inneren Gestalt des Ulmischen Münsters‘, gezeichnet von Johannes Bertholdt für Fricks Münsterbeschreibung: ein Schnitt durch das Langhaus mit dem offenen Dachstuhl, das hohe Mittelschiff mit seinen Gewölben und die Seitenschiffe, die Engelberg ab 1502 durch Säulen teilte (Frick [6]). Zu sehen ist eine Kirche nach der Reformation: Statt der einundfünfzig Altäre Fabris (Vorzüge [3]) leere Pfeiler und kahle Wände, nur wenig Ausstattung im Blick auf den Chor. So sah der Bau aus, den die Bürger nicht vollenden konnten, zweihundert Jahre nach dem Bildersturm.",
+   "source": "Elias Frick, Templum Parochiale Ulmensium = Ulmisches Münster (Ulm 1718), Faltkupfer ‚fig. IV‘, gez. Johannes Bertholdt; Internet Archive 10002717bsb, Digitalisat der Bayerischen Staatsbibliothek (gemeinfrei)."
   }
  ]
 }
