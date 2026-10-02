@@ -45,6 +45,51 @@
      ]
     }
    ]
+  },
+  {
+   "id": "betteln",
+   "titel": "Ohne Betteln",
+   "frage": "Fabri rühmt die Kirche ohne Betteln und beschreibt die Pfleger, die das Betteln prüfen.",
+   "note": "Im Bericht über die Grundsteinlegung ist ‚ohne Hilfe und Betteln‘ der Stolz der Stadt: keine Ablässe, keine Pilger, keine Fürsten. In der Beschreibung der Ämter ist Betteln eine Sache der Ordnung: Pfleger aus dem Rat prüfen, wer es nötig hat, an den Türen und vor den Kirchen zu bitten, damit niemand ‚unter dem Vorwand der Armut‘ müßig geht. Dieselbe Stadt, die nicht betteln wollte, bestimmte, wer betteln durfte.",
+   "voices": [
+    {
+     "text": "grundstein",
+     "sec": "fabri",
+     "n": [
+      5
+     ]
+    },
+    {
+     "text": "buergerkirche",
+     "sec": "pfleger",
+     "n": [
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pfleger",
+   "titel": "Wer ist der Bauherr?",
+   "frage": "Der Vertrag von 1392 und Fabris Ämterliste von 1488: Unserer Frauen Pfleger.",
+   "note": "Im Vertrag mit Ulrich von Ensingen zahlen ‚Unserer Frauen Pfleger‘ den Lohn, und der Rat kann den Meister entlassen. Fabri sagt knapp ein Jahrhundert später, woher diese Pfleger kommen: aus dem Rat gewählt, Vorsteher der Schätze der Pfarrkirche, und sie ‚verfügen über die Bauten‘. Bauherr des Münsters war weder der Pfarrer noch der Baumeister, sondern der Rat.",
+   "voices": [
+    {
+     "text": "ensinger",
+     "sec": "ulm",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "buergerkirche",
+     "sec": "pfleger",
+     "n": [
+      2
+     ]
+    }
+   ]
   }
  ]
 }

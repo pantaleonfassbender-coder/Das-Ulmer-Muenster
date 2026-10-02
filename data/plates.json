@@ -1,6 +1,6 @@
 {
  "lede": "Risse, Ansichten und Bilder des Münsters aus gemeinfreien Drucken; jede Tafel nennt ihre Quelle und verweist auf die Stelle, zu der sie gehört.",
- "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), nach dem Scan im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
+ "credit": "Tafeln: der Holzschnitt der Stadt Ulm aus Hartmann Schedels Weltchronik (1493) und Matthäus Merians Münsterplatz (1643), über Wikimedia Commons; Ulrichs von Ensingen Meisterzeichen aus A. W. Fr. Carstanjen, Ulrich von Ensingen (1893), nach dem Scan im Internet Archive. Alle gemeinfrei, für diese Site verkleinert.",
  "plates": [
   {
    "id": "ulma1493",
@@ -15,6 +15,13 @@
    "titel": "Ulrichs Zeichen",
    "caption": "Das Meisterzeichen Ulrichs von Ensingen, erhaben auf einem Schild gehauen, ‚ungefähr die Form eines gothischen N‘: oben (Fig. 1 a und b) zweimal an derselben Fiale des südlichen Chorturms in Ulm, das zweite als Spiegelbild, unten (Fig. 2) an der Innenseite der Balustrade über dem Oktogon des Straßburger Münsters. Viermal, sagt Carstanjen, habe sich Ulrich so an seinen Bauten verewigt. Der Meister setzte sein Zeichen sichtbar an den Bau; die Gesellen hieben ihres vertieft in die Steine. Zum Vertrag, der ihn in Ulm band, Ensingen Ulm [1].",
    "source": "A. W. Fr. Carstanjen, Ulrich von Ensingen. Ein Beitrag zur Geschichte der Gothik in Deutschland (München 1893), S. 13, Fig. 1–2, nach dem Scan im Internet Archive (ulrichvonensinge00cars). Carstanjen starb 1925; gemeinfrei."
+  },
+  {
+   "id": "muensterplatz1643",
+   "side": "buerger",
+   "titel": "Der Münsterplatz, 1643",
+   "caption": "Das Münster in der Vogelschau Matthäus Merians, hundert Jahre nach der Bauruhe von 1543: das Langhaus mit seinen Strebepfeilern, der Westturm mit einem niedrigen Abschluss statt des Helms, den erst das 19. Jahrhundert baute, und an der Langseite ein umfriedeter Hof mit Bäumen, ringsum eng umstellt von den Häusern der Bürger. Links, nach Lage und Form wohl Kirche und Kloster der Barfüßer, deren Garten 1377 für die Türme weichen musste (Grundstein [2]). Die Kirche, die der Rat bauen ließ und deren Patronat er 1446 kaufte (Reichenau [5]), steht mitten in der Stadt, wie Fabri es beschreibt.",
+   "source": "Matthäus Merian d. Ä., Ausschnitt aus der Vogelschau von Ulm, in: Martin Zeiller, Topographia Sueviae (Frankfurt am Main 1643); via Wikimedia Commons (gemeinfrei)."
   }
  ]
 }
